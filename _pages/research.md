@@ -5,6 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
+** Quantum algorithms **
+
+** Quantum many-body phenomena **
+
+I have been interested in interesting many-body phenomena since my undergraduate study. I wonder if we could have a better understanding of emergent quantum phenomena in quantum materials.
+
+I have worked on HTSC.
+
+
 ** Quantum error mitigation and its transitions to quantum error correction **
 
 I have been wondering how to overcome the fundemental limits set up by QEM. This motivates us to think about an intermediate form between QEM and QEC.

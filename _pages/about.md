@@ -12,5 +12,4 @@ I am a researcher in quantum computing.
 
 **Research interest**
 
-
 Quantum computing, quantum information, and quantum many-body physics

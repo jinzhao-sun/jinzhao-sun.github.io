@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in quantum computing and quantum physics. I did postdoctoral research with Tom Gur at Cambridge and Myungshik Kim at Imperial College, and came back to Oxford supported by a Fellowship, where I did my PhD supervised by Vlatko Vedral and Andrew Boothroyd. 
+I am a Research Fellow in quantum computing and quantum physics. I did postdoctoral research with Tom Gur at Cambridge, Myungshik Kim at Imperial, Andrew Green at University College, and came back to Oxford supported by a Fellowship. I did my PhD with Vlatko Vedral and Andrew Boothroyd, who navigated me to research quantum, and I am very fortunate to get entangled with my supervisors.
 
 
 **Research interest**

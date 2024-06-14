@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-** Quantum error mitigation **
+** Quantum error mitigation and its transitions to quantum error correction **
+
+I have been wondering how to overcome the fundemental limits set up by QEM. This motivates us to think about an intermediate form between QEM and QEC.
 
 ** Quantum computational chemistry **
 

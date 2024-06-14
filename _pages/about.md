@@ -10,6 +10,5 @@ redirect_from:
 I am a researcher in quantum computing.
 
 
-Research interests
-======
+**Research interests**
 Quantum computing, quantum information, and quantum many-body physics

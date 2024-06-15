@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+c
 ** Quantum algorithms **
 
 ** Quantum many-body phenomena **

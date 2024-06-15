@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I have been working on quantum computing, quantum information, and quantum many-body physics. Below let us explore  a few interesting topics.
+I have been working on quantum computing, quantum information, and quantum many-body physics. Below let us explore  a few topics that I have been interested in.
 
 ** Quantum algorithms **
 

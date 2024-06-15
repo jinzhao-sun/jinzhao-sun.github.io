@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+I have been working on quantum computing, quantum information, and quantum many-body physics.  I did postdoctoral research with Tom Gur at Cambridge, Myungshik Kim at Imperial, Andrew Green at University College, and came back to Oxford supported by a Fellowship. I did my PhD with Vlatko Vedral and Andrew Boothroyd, who navigated me to research quantum, and I am very fortunate to get entangled with my supervisors.
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

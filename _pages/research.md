@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Topics"
 permalink: /research/
 author_profile: true
 ---
-c
+
+I have been working on quantum computing, quantum information, and quantum many-body physics. Below let us explore  a few interesting topics.
+
 ** Quantum algorithms **
 
 ** Quantum many-body phenomena **

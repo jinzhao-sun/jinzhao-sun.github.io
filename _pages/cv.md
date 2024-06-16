@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Bio"
-permalink: /cv/
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I have been working on quantum computing, quantum information, and quantum many-body physics.  I did postdoctoral research with Tom Gur at Cambridge, Myungshik Kim at Imperial, Andrew Green at University College, and came back to Oxford supported by a Schmidt AI in Science Fellowship. I am very fortunate to be supervised by Vlatko Vedral and Andrew Boothroyd and get entangled with them, who navigated my research in the quantum realm. 
+I have been working on quantum computing, quantum information, and quantum many-body physics.  I did postdoctoral research with Tom Gur at Cambridge, Myungshik Kim at Imperial, Andrew Green at University College, and came back to Oxford supported by a Schmidt AI in Science Fellowship. I am very fortunate to be supervised by Vlatko Vedral and Andrew Boothroyd and get entangled with them, who navigated my research in the quantum realm. I am also a Visiting Scholar of Wolfson College Oxford.
 
 Service
 -----

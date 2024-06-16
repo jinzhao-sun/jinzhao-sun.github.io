@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-I have a broad interest in quantum computing, quantum information, and quantum many-body physics. Below let us explore a few topics that I have been interested in.
+I have a broad interest in quantum computing, quantum information, and quantum many-body physics. Let us explore a few topics that I have been interested in.
 
 Quantum computing
 -----

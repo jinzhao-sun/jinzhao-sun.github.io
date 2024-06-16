@@ -32,21 +32,24 @@ devices or executing quantum algorithms. However, probing a quantum system's beh
 I have been thinking of the crossover between static problems and dynamics problems, well-established spectroscopy techniques and quantum computing. Some philosophical discussions on quantum machinery and spectroscopy can be found in my [thesis](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d).
 
 
-**Quantum error mitigation and its transitions to quantum error correction**
+Quantum error mitigation and its transitions to quantum error correction
+-----
 
 To effectively demonstrate the utility of quantum computing, we must confront challenges associated with the practical use of noisy quantum computers. Errors are an inherent aspect of quantum computing. Ensuring that quantum computing delivers accurate results in the presence of these errors is a critical consideration. Together with Suguru, Xiao, Vlatko and Simon, we initially proposed new QEM schemes to mitigate realistic noise described by Lindbladian appearing in both digital and analogue quantum devices. For noise from imperfections of the engineered Hamiltonian or additional noise operators, we showed it can be effectively suppressed by a new QEM method, termed stochastic QEM. Our method only requires accurate single qubit controls, and is thus applicable to all digital quantum computers and various analogue simulators. Details could be found [here](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034026).
 
 I have been wondering how to overcome the fundamental limits set up by QEM. This motivates us to think about an intermediate form between QEM and QEC. In recent work, we introduced an information-theoretic machinery, a commutation-derived quantum filter, to purify or correct quantum channels. This addresses the sampling problem in QEM.
 
 
-**Quantum computational chemistry**
+Quantum computational chemistry
+-----
 
 The application of quantum computing to computational chemistry faces various experimental and theoretical challenges. In a recent project with USTC and Peking, we addressed the critical challenges associated with solving molecular electronic structures using noisy quantum processors. We demonstrated a quantum simulation that in theory goes beyond the mean-field level. We achieved chemical accuracy for small molecules.
 
 The protocol presents significant improvements in the circuit depth and running time, key metrics for chemistry simulation. Through systematic hardware enhancements and the integration of error mitigation techniques, we push forward the limit of quantum computational chemistry and successfully scale up the implementation of VQE with an optimised unitary coupled-cluster ansatz. We produced high-precision results of the ground-state energy for molecules with error suppression by around two orders of magnitude. Details could be found [here](https://www.nature.com/articles/s41567-024-02530-z).
 
  
- **Quantum many-body phenomena**
+ Quantum many-body phenomena
+ -----
 
 I have been interested in interesting many-body phenomena since my undergraduate study. I wonder if we could have a better understanding of emergent quantum phenomena in quantum materials, especially high-temperature superconductors and magnetic materials. Some related works could be found [here](https://www.nature.com/articles/s41535-023-00604-4).
 

@@ -27,9 +27,10 @@ Contributed talk on perturbative quantum simulation, TQC 2023 ([video](https://w
 
 Quantum simulation with hybrid tensor networks’, IOP Publishing Quantum 2020 Conference.
 
+Quantum computing quantum Monte Carlo, Quantum Techniques in Machine Learning (QTML) 2023 ([slides]([https://github.com/jinzhao-sun/jinzhao-sun.github.io/assets/87315114/58e89752-3f70-4e1c-8c3c-0db355f26749](https://indico.cern.ch/event/1288979/contributions/))
+
 Ab initio Quantum Simulation of Strongly Correlated Materials with Quantum Embedding, Quantum Techniques in Machine Learning (QTML) 2023 ([slides](https://indico.cern.ch/event/1288979/sessions/516280/#20231123))
 
-Quantum computing quantum Monte Carlo, Quantum Techniques in Machine Learning (QTML) 2023 ([slides]([https://github.com/jinzhao-sun/jinzhao-sun.github.io/assets/87315114/58e89752-3f70-4e1c-8c3c-0db355f26749](https://indico.cern.ch/event/1288979/contributions/))
 
 
 

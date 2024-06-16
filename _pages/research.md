@@ -14,7 +14,7 @@ Quantum computing
 
 Quantum problems can be broadly classified into two categories: static problems and dynamics problems. Static problems correspond to finding a quantum system's lowest energy state or, more generally, its eigenstate. Applications range from drug design to uncovering novel phases of matter, which, to most extent, can be transformed into an eigenstate problem. Dynamics problems include simulating the dynamics of a quantum system, for example, simulating the dynamics governed by a Hamiltonian, also known as Hamiltonian simulation. Applications include identifying dissipative phase transitions and studying information scrambling and transport.  
 
-I have been working on improving algorithmic complexity in both of these general classes of quantum problems. 
+I have been working on improving algorithmic complexity in the two general classes of quantum problems. 
 
 **Eigenstate problems** We have developed several quantum algorithms for finding the ground-state or excited states of a quantum system. One example is a near-optimal eigenstate preparation method, termed quantum algorithmic cooling, in collaboration with Pei and Xiao. The algorithmic cooling operates deterministically without relying on assumptions about parametrised circuits and can guarantee simulation accuracy with near-optimal query complexity in precision, gap, etc. The query complexity (of real-time evolution) matches the results by QSP and QETU, and shows an advantage over quantum phase estimation and variational methods. More details could be found [here](https://arxiv.org/abs/2109.15304).
 

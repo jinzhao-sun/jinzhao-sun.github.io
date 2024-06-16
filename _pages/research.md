@@ -30,6 +30,11 @@ Adaptive product formulae. We introduced an adaptive product formula which can p
 My collaborators and I have been extensively working on hybrid quantum-classical computing, such as variational quantum algorithms, which use a small quantum computer to carry out a hard-to-compute subroutine and a classical computer for optimisation ([link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.010501)). With Xiao, Suguru, Ying and Simon, we proposed variational algorithms for simulating open system dynamics and general processes. An application is to simulate $$\lambda-\phi^4$$ scalar quantum field theories in collaboration with Junyu, Zimu, Han and Xiao. Details could be found [here](https://iopscience.iop.org/article/10.1088/2632-2153/aca06b/meta).
 
 
+**Quantum embedding simulation of molecules and materials**
+
+To facilitate the practical applications of quantum computing, I have worked with industrial partners to develop quantum embedding schemes tailored to solving physical problems, particularly in the domains of quantum materials and molecules. With industrial partners, we emulated quantum hardware classically and tested the viability of quantum simulation for QMB systems, with the problem size of 10,000 qubits before resource reduction, currently the largest-scale proof-of-principle quantum simulation. They have also stimulated new directions in pushing forward the applications of quantum computing by integrating advanced classical methods. Simulations of molecules and materials can be found [here](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc01492k) and [here](https://www.nature.com/articles/s41524-023-01045-0).
+
+
 **Quantum computing and spectroscopy**
 
 Estimating spectral features of quantum many-body systems has attracted great attention in material science
@@ -54,11 +59,13 @@ The application of quantum computing to computational chemistry faces various ex
 
 The protocol presents significant improvements in the circuit depth and running time, key metrics for chemistry simulation. Through systematic hardware enhancements and the integration of error mitigation techniques, we push forward the limit of quantum computational chemistry and successfully scale up the implementation of VQE with an optimised unitary coupled-cluster ansatz. We produced high-precision results of the ground-state energy for molecules with error suppression by around two orders of magnitude; remarkably, we achieved chemical accuracy for small molecules. Details could be found [here](https://www.nature.com/articles/s41567-024-02530-z).
 
+Apart from the circuit generation method developed in this work, fast quantum state measurement is crucial. This leverages the overlapped grouping method developed [here](https://quantum-journal.org/papers/q-2023-01-13-896/) and [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.200501). Interestingly, the current advanced measurment schemes, like classical shadow method and its variants (derandomised shadow and adaptive shadow), can be understood in the framework presented in the [paper](https://quantum-journal.org/papers/q-2023-01-13-896/) and [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.200501)
+
  
 Quantum many-body phenomena
 -----
 
-I have been interested in interesting many-body phenomena since my undergraduate study. I wonder if we could have a better understanding of emergent quantum phenomena in quantum materials, especially high-temperature superconductors and magnetic materials. Some related works could be found [here](https://www.nature.com/articles/s41535-023-00604-4).
+I have been interested in interesting many-body phenomena since my undergraduate study. I wonder if we could have a better understanding of emergent quantum phenomena in quantum materials, especially high-temperature superconductors and magnetic materials. In my undergraduate thesis, I explored the microscopic origin of electronic nematic order in iron-selenide-based superconductors. Please email me if you are interested in my undergraduate thesis. Some related works could be found [here](https://www.nature.com/articles/s41535-023-00604-4) and [here](https://www.sciencedirect.com/science/article/abs/pii/S209592731730628X).
 
 
 

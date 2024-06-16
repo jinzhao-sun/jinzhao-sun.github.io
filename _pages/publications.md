@@ -7,9 +7,10 @@ author_profile: true
 
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find a list of my publications on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find a list of my publications on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
 
+Descriptions of my research works can be found under **Research**.
 
 **Thesis**
 

@@ -44,6 +44,7 @@ devices or executing quantum algorithms. However, probing a quantum system's beh
 I have been thinking of the crossover between static problems and dynamics problems, well-established spectroscopy techniques and quantum computing, and many seemingly different subjects. Some philosophical discussions on the notion of quantum machine, quantum simulation and spectroscopy can be found in my [thesis](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d).
 
 
+
 Quantum error mitigation and its transitions to quantum error correction
 -----
 

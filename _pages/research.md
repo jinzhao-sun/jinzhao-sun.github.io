@@ -8,7 +8,7 @@ author_profile: true
 
 I have been working on quantum computing, quantum information, and quantum many-body physics. Below let us explore  a few topics that I have been interested in.
 
-**Quantum algorithms**
+**Quantum computing**
 
 Quantum problems can be broadly classified into two categories: static problems and dynamics problems. Static problems correspond to finding a quantum system's lowest energy state or its eigenstate. Applications range from drug design to uncovering novel phases of matter, which, to most extent, can be transformed into an eigenstate problem. On the other hand, dynamics problems include finding quantum circuits to approximate the dynamics governed by a Hamiltonian, also known as Hamiltonian simulation, with applications including identifying dissipative phase transitions and studying information scrambling and transport.  
 
@@ -22,6 +22,13 @@ Perturbative approach to quantum dynamics simulation. Perturbation theory brings
 
 Adaptive product formulae. We introduced an adaptive product formula which can produce a compact quantum circuit for Hamiltonian simulation. We introduced a measurable quantifier to describe the dynamics simulation error. The simulation error is rigorously analysed. The adaptive product formula is proven to guarantee simulation accuracy, showing an advantage over conventional product formula methods or variational quantum algorithms. Our method can be used as a subroutine of many quantum algorithms, and we demonstrated the applications for solving eigenvalue problems in quantum chemistry. Our work largely reduces quantum resources for Hamiltonian simulation and thus enables practical implementation with near-term or early fault-tolerant quantum devices. Details could be found [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.040601).
 
+**Quantum computing and spectroscopy**
+
+Estimating spectral features of quantum many-body systems has attracted great attention in material science
+and quantum chemistry. To achieve this task, various experimental and theoretical techniques have been developed, including spectroscopy techniques, and quantum simulation either by engineering controlled quantum
+devices or executing quantum algorithms. However, probing a quantum system's behaviour is challenging and demands substantial resources for both approaches. For instance, real probe by neutron spectroscopy requires access to large-scale facilities with high-intensity neutron beams, while quantum computing of eigenenergies, such as phase estimation, typically requires a long coherence time in engineering controlled quantum devices. In a recent project, we established a framework for probing the excitation spectrum of quantum many-body systems with quantum simulators. More details could be found [here](https://arxiv.org/abs/2305.07649).
+
+I have been thinking of the crossover between static problems and dynamics problems, well-established spectroscopy techniques and quantum computing. Some philosophical discussions on quantum machinery and spectroscopy can be found in my [thesis](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d).
 
 
 **Quantum error mitigation and its transitions to quantum error correction**

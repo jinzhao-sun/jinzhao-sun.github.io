@@ -19,12 +19,6 @@ For static problems (i.e. finding eigenvalues and eigenvectors), we have develop
 In a more recent work, we provide a full-stack design of quantum algorithm which consider the gate complexity, as opposed to previous algorithms based on querying either block encoding of the Hamiltonian and time evolution. We show that it maintains near-optimal system-size and precision scaling.
 
 
-**Quantum many-body phenomena**
-
-I have been interested in interesting many-body phenomena since my undergraduate study. I wonder if we could have a better understanding of emergent quantum phenomena in quantum materials.
-
-I have worked on HTSC.
-
 
 **Quantum error mitigation and its transitions to quantum error correction**
 
@@ -36,4 +30,8 @@ The application of quantum computing to computational chemistry faces various ex
 
 The protocol presents significant improvements in the circuit depth and running time, key metrics for chemistry simulation. Through systematic hardware enhancements and the integration of error mitigation techniques, we push forward the limit of quantum computational chemistry and successfully scale up the implementation of VQE with an optimised unitary coupled-cluster ansatz. We produce high-precision results of the ground-state energy for molecules with error suppression by around two orders of magnitude. 
  
- 
+ **Quantum many-body phenomena**
+
+I have been interested in interesting many-body phenomena since my undergraduate study. I wonder if we could have a better understanding of emergent quantum phenomena in quantum materials.
+
+I have worked on HTSC.

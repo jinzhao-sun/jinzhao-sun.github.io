@@ -18,5 +18,5 @@ Exploring quantum many-body systems from the viewpoints of quantum computing and
 
 PhD thesis, University of Oxford
 
-More interesting research topics can be found here. Let us begin our journey in quantum!
+More interesting research topics can be found in Research. 
 

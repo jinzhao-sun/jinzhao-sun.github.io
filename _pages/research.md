@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I have been working on quantum computing, quantum information, and quantum many-body physics. Below let us explore  a few topics that I have been interested in.
+I have broad interest in quantum computing, quantum information, and quantum many-body physics. Below let us explore  a few topics that I have been interested in.
 
 Quantum computing
 -----

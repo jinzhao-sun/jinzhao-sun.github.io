@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Research Fellow in quantum computing and quantum physics. My research revolves around quantum computing, quantum information, and quantum many-body physics. My research lies in the exploration of quantum computing as a means to address problems that present challenges for classical computing. I aim to uncover the potential power of quantum computing, and examine whether it holds advantages in tackling quantum many-body problems. 
 
+Some interesting research topics can be found under **Research**. 
+
 A beginner's guide to quantum computing could be found in my thesis below.
 
 **Thesis**
@@ -18,5 +20,5 @@ Exploring quantum many-body systems from the viewpoints of quantum computing and
 
 PhD thesis, University of Oxford
 
-More interesting research topics can be found under **Research**. 
+
 

@@ -14,7 +14,7 @@ Some interesting research topics can be found under **Research**.
 
 A beginner's guide to quantum computing could be found in my thesis below.
 
-**Thesis**
+**Thesis**:
 Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy ([link](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d))
 
 PhD thesis, University of Oxford

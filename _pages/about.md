@@ -7,13 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in quantum computing and quantum physics. 
 
-**Research interest**
-
-Quantum computing, quantum information, and quantum many-body physics
-
-My research revolves around quantum computing, quantum information, and quantum many-body physics. My research lies in the exploration of quantum computing as a means to address problems that present challenges for classical computing. My research aims to uncover the potential power of quantum computing, and examine whether it holds advantages in tackling quantum many-body problems. 
+I am a Research Fellow in quantum computing and quantum physics. My research revolves around quantum computing, quantum information, and quantum many-body physics. My research lies in the exploration of quantum computing as a means to address problems that present challenges for classical computing. My research aims to uncover the potential power of quantum computing, and examine whether it holds advantages in tackling quantum many-body problems. 
 
 A beginner's guide to quantum computing could be found in my thesis below.
 

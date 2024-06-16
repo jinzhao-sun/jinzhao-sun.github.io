@@ -17,7 +17,7 @@ I have been working on improving algorithmic complexity in both of these general
 
 **Eigenstate problems** We have developed several quantum algorithms for finding the ground-state or excited states of a quantum system. One example is a near-optimal eigenstate preparation method, termed quantum algorithmic cooling, in collaboration with Pei and Xiao. The algorithmic cooling operates deterministically without relying on assumptions about parametrised circuits and can guarantee simulation accuracy with near-optimal query complexity in precision, gap, etc. The query complexity (of real-time evolution) matches the results by QSP and QETU, and shows an advantage over quantum phase estimation and variational methods. More details could be found [here](https://arxiv.org/abs/2109.15304).
 
-In more recent work, we provide a full-stack design of a quantum algorithm which considers the gate complexity, as opposed to previous algorithms based on querying either block encoding of the Hamiltonian and time evolution. We show that it maintains near-optimal system size and precision scaling. Details could be found [here](https://arxiv.org/abs/2406.04307).
+In more recent work, we provide a full-stack design of a quantum algorithm which considers the gate complexity, as opposed to previous algorithms based on querying either block encoding of the Hamiltonian and time evolution $$e^{-iHt}$$. We show that it maintains near-optimal system size and precision scaling. Details could be found [here](https://arxiv.org/abs/2406.04307).
 
 **Dynamics problems**, i.e., simulating the dynamics of quantum systems, is a fundamental task in quantum physics and is believed to be a major application of quantum computers. Below, I introduce a few related works.
 

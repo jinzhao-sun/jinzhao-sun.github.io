@@ -32,7 +32,7 @@ Tutorial for 2023 Summer School and Workshop held at the University of Nottingha
 
 Perturbative quantum simulation, TQC 2023 ([video](https://www.youtube.com/watch?v=jKSJYa58psk&ab_channel=Squid%3ASchoolsforQuantumInformationDevelopment))
 
-Quantum simulation with hybrid tensor networks’, IOP Publishing Quantum 2020 Conference.
+Quantum simulation with hybrid tensor networks’, IOP Publishing Quantum 2020 Conference
 
 
 <!--

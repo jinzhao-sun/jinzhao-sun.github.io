@@ -13,5 +13,5 @@ I have been working on quantum computing, quantum information, and quantum many-
 
 Service
 -----
-I am a referee for journals including: Nature, Nature Physics, Nature Communications, npj Quantum information, Physical Review (PR) journals (PRL, PRX Quantum, PR Research, PR Applied, PRA, PRB, PRE), Quantum, Scientific Reports, Entropy, Algorithms, Applied Science, etc; conferences including Quantum Information Processing, Theory of Quantum Computation, Communication and Cryptography, Asian Quantum Information Science (AQIS), etc.
+I am a referee for journals including: Nature, Nature Physics, Nature Communications, npj Quantum information, Physical Review (PR) journals (PRL, PRX Quantum, PR Research, PR Applied, PRA, PRB, PRE), Quantum, Scientific Reports, Entropy, Algorithms, Applied Science, etc; conferences including Quantum Information Processing (QIP), Theory of Quantum Computation, Communication and Cryptography (TQC), Asian Quantum Information Science (AQIS), etc.
  

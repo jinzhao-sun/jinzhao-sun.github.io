@@ -8,7 +8,8 @@ author_profile: true
 
 I have been working on quantum computing, quantum information, and quantum many-body physics. Below let us explore  a few topics that I have been interested in.
 
-**Quantum computing**
+Quantum computing
+=====
 
 Quantum problems can be broadly classified into two categories: static problems and dynamics problems. Static problems correspond to finding a quantum system's lowest energy state or its eigenstate. Applications range from drug design to uncovering novel phases of matter, which, to most extent, can be transformed into an eigenstate problem. On the other hand, dynamics problems include finding quantum circuits to approximate the dynamics governed by a Hamiltonian, also known as Hamiltonian simulation, with applications including identifying dissipative phase transitions and studying information scrambling and transport.  
 
@@ -16,7 +17,7 @@ I have been working on improving algorithmic complexity in both of these general
 
 In more recent work, we provide a full-stack design of a quantum algorithm which considers the gate complexity, as opposed to previous algorithms based on querying either block encoding of the Hamiltonian and time evolution. We show that it maintains near-optimal system size and precision scaling. Details could be found [here](https://arxiv.org/abs/2406.04307).
 
-For dynamics problems, simulating the dynamics of quantum systems (Hamiltonian simulation) is a fundamental task in quantum physics and is believed to be a major application of quantum computers. Below, I introduce a few related works.
+**Dynamics problems**, i.e., simulating the dynamics of quantum systems, is a fundamental task in quantum physics and is believed to be a major application of quantum computers. Below, I introduce a few related works.
 
 Perturbative approach to quantum dynamics simulation. Perturbation theory brings about great success in quantitative predictions of quantum mechanics; however, challenges remain in solving the major component and computing the power series. We addressed this challenge by developing a conceptually novel approach, perturbative quantum simulation (PQS), which exploits the complementary strength of quantum computing and perturbation theory. We demonstrated that PQS is applicable to simulate classically challenging systems, such as large systems with weak inter-subsystem interactions or intermediate systems with general interactions. Remarkably, PQS shows significant advantages over conventional quantum simulation algorithms concerning the quantum resource requirements and noise robustness. I have explored applications in interacting bosons, fermions, and quantum spins in different topological structures and studied different quantum phenomena on systems of up to 48 qubits, such as information propagation, charge-spin separation, magnetism, etc. Details could be found [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.120505).
 

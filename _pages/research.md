@@ -49,9 +49,9 @@ I have been wondering how to overcome the fundamental limits set up by QEM. This
 Quantum computational chemistry
 -----
 
-The application of quantum computing to computational chemistry faces various experimental and theoretical challenges. In a recent project with USTC and Peking, we addressed the critical challenges associated with solving molecular electronic structures using noisy quantum processors. We demonstrated a quantum simulation that in theory goes beyond the mean-field level. We achieved chemical accuracy for small molecules.
+The application of quantum computing to computational chemistry faces various experimental and theoretical challenges. In a recent project with USTC and Peking, we addressed the critical challenges associated with solving molecular electronic structures using noisy quantum processors. We demonstrated a quantum simulation that in theory goes beyond the mean-field level. 
 
-The protocol presents significant improvements in the circuit depth and running time, key metrics for chemistry simulation. Through systematic hardware enhancements and the integration of error mitigation techniques, we push forward the limit of quantum computational chemistry and successfully scale up the implementation of VQE with an optimised unitary coupled-cluster ansatz. We produced high-precision results of the ground-state energy for molecules with error suppression by around two orders of magnitude. Details could be found [here](https://www.nature.com/articles/s41567-024-02530-z).
+The protocol presents significant improvements in the circuit depth and running time, key metrics for chemistry simulation. Through systematic hardware enhancements and the integration of error mitigation techniques, we push forward the limit of quantum computational chemistry and successfully scale up the implementation of VQE with an optimised unitary coupled-cluster ansatz. We produced high-precision results of the ground-state energy for molecules with error suppression by around two orders of magnitude; remarkably, we achieved chemical accuracy for small molecules. Details could be found [here](https://www.nature.com/articles/s41567-024-02530-z).
 
  
  Quantum many-body phenomena

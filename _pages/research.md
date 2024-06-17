@@ -10,6 +10,16 @@ author_profile: true
 I have a broad interest in quantum computing, quantum information, and quantum many-body physics. Let us explore a few topics that I have been interested in.
 
 * Quantum computing
+ *  Eigenstate problems
+ *  Dynamics problems
+ *  Hybrid quantum-classical computing
+ *  Quantum simulation of molecules and materials
+ *  Quantum computing and spectroscopy
+* Quantum error mitigation and its transitions to quantum error correction
+* Quantum computational chemistry
+* Quantum many-body phenomena
+
+
 
 Quantum computing
 -----
@@ -33,7 +43,7 @@ My collaborators and I have been extensively working on hybrid quantum-classical
 
 
 
-**Quantum embedding simulation of molecules and materials**
+**Quantum simulation of molecules and materials**
 
 To facilitate the practical applications of quantum computing, I have worked with industrial partners to develop quantum embedding schemes tailored to solving physical problems, particularly in the domains of quantum materials and molecules. We emulated quantum hardware classically and tested the viability of quantum simulation for quantum many-body systems. In a collaborative project with Dingshun and colleagues, we have emulated different materials, from hydrogen chains to nickel oxides, with a problem size of up to 10,000 qubits before resource reduction, which is currently the largest-scale proof-of-principle quantum simulation. They have also stimulated new directions in pushing forward the applications of quantum computing by integrating advanced classical methods. Simulations of molecules and materials can be found [link](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc01492k) and [link](https://www.nature.com/articles/s41524-023-01045-0).
 

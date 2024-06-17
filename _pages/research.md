@@ -15,7 +15,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   *  Hybrid quantum-classical computing
   *  Quantum simulation of molecules and materials
   *  Quantum computing and spectroscopy
-* Quantum error mitigation and its transitions to quantum error correction
+* Quantum error mitigation and its transition to quantum error correction
 * Quantum computational chemistry
 * Quantum many-body phenomena
 
@@ -63,7 +63,7 @@ I have been thinking of the crossover between static problems and dynamics probl
 
 
 
-Quantum error mitigation and its transitions to quantum error correction
+Quantum error mitigation and its transition to quantum error correction
 -----
 
 To effectively demonstrate the utility of quantum computing, we must confront challenges associated with the practical use of noisy quantum computers. Errors are an inherent aspect of quantum computing. Ensuring that quantum computing delivers accurate results in the presence of these errors is a critical consideration. Together with Suguru, Xiao, Vlatko and Simon, we initially proposed new QEM schemes to mitigate realistic noise described by Lindbladian appearing in both digital and analogue quantum devices. For noise from imperfections of the engineered Hamiltonian or additional noise operators, we showed it can be effectively suppressed by a new QEM method, termed stochastic QEM. Our method only requires accurate single qubit controls, and is thus applicable to all digital quantum computers and various analogue simulators. Find more information in our paper, "Mitigating realistic noise in practical noisy intermediate-scale quantum devices" [link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034026).

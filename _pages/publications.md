@@ -16,12 +16,11 @@ Descriptions of my research works can be found under **Research**.
 
 Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy ([link](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d))
 
-PhD thesis
-Jesus College, University of Oxford
+PhD thesis, Jesus College, University of Oxford
 
 **Talks**
 
-A few talks could be found below, to be continued...
+A few talks can be found below, to be continued...
 
 Quantum computing quantum Monte Carlo, Quantum Techniques in Machine Learning (QTML) 2023 ([slides](https://indico.cern.ch/event/1288979/contributions/))
 

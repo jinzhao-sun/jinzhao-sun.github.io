@@ -12,9 +12,9 @@ I have a broad interest in quantum computing, quantum information, and quantum m
 * Quantum computing
   *  Eigenstate problems
   *  Dynamics problems
- *  Hybrid quantum-classical computing
- *  Quantum simulation of molecules and materials
- *  Quantum computing and spectroscopy
+  *  Hybrid quantum-classical computing
+  *  Quantum simulation of molecules and materials
+  *  Quantum computing and spectroscopy
 * Quantum error mitigation and its transitions to quantum error correction
 * Quantum computational chemistry
 * Quantum many-body phenomena

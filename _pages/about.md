@@ -12,7 +12,7 @@ I am a Research Fellow in quantum computing and quantum physics. My research rev
 
 Find some interesting research topics and descriptions of my selected research works under **Research**. 
 
-A beginner's guide to quantum computing could be found in my thesis below.
+A beginner's guide to quantum computing could be found in my thesis below. Some philosophical discussions on the notion of quantum machines, quantum simulation and spectroscopy can also be found there.
 
 **Thesis**:
 Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy ([link](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d))

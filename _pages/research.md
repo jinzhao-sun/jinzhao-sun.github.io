@@ -10,8 +10,8 @@ author_profile: true
 I have a broad interest in quantum computing, quantum information, and quantum many-body physics. Let us explore a few topics that I have been interested in.
 
 * Quantum computing
- *  Eigenstate problems
- *  Dynamics problems
+  *  Eigenstate problems
+  *  Dynamics problems
  *  Hybrid quantum-classical computing
  *  Quantum simulation of molecules and materials
  *  Quantum computing and spectroscopy

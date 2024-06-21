@@ -84,7 +84,7 @@ The application of quantum computing to computational chemistry faces various ex
 
 The protocol presents significant improvements in the circuit depth and running time, key metrics for chemistry simulation. Through systematic hardware enhancements and the integration of error mitigation techniques, we push forward the limit of quantum computational chemistry and successfully scale up the implementation of VQE with an optimised unitary coupled-cluster ansatz. We produced high-precision results of the ground-state energy for molecules with error suppression by around two orders of magnitude; remarkably, we achieved chemical accuracy for small molecules. Find more information in our paper, "Experimental quantum computational chemistry with optimised unitary coupled cluster ansatz" [link](https://www.nature.com/articles/s41567-024-02530-z).
 
-I'd like to thank Weitang, Vlatko, Myungshik, Heng, Changsu, Dingshun and Junjie for very useful related discussions.
+I'd like to thank Weitang, Vlatko, Myungshik, Heng, Changsu, Dingshun and Junjie for very useful related discussions and the great support for this project.
 
 
 **Quantum state measurements and a unified measurement framework**

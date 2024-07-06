@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-I have been working on quantum computing, quantum information, and quantum many-body physics.  I did postdoctoral research with Tom Gur at Cambridge, Myungshik Kim at Imperial, Andrew Green at University College, and came back to Oxford supported by a Schmidt AI in Science Fellowship. I am very fortunate to be supervised by Vlatko Vedral and Andrew Boothroyd and get entangled with them, who navigated my research in the quantum realm. I am a [Visiting Scholar](https://www.wolfson.ox.ac.uk/person/jinzhao-sun/) of Wolfson College [Oxford](https://www.wolfson.ox.ac.uk/). I was a member of [Jesus College Oxford](https://www.jesus.ox.ac.uk/) with a college scholarship. The college crest of Jesus College features three deer, and I am happy to have one surrounding me.
+I have been working on quantum computing, quantum information, and quantum many-body physics.  I did postdoctoral research with Tom Gur at Cambridge, Myungshik Kim at Imperial, Andrew Green at University College London, and came back to Oxford supported by a Schmidt AI in Science Fellowship. I am very fortunate to be supervised by Vlatko Vedral and Andrew Boothroyd and get entangled with them, who navigated my research in the quantum realm. I am a [Visiting Scholar](https://www.wolfson.ox.ac.uk/person/jinzhao-sun/) of [Wolfson College](https://www.wolfson.ox.ac.uk/) Oxford. I was a member of [Jesus College](https://www.jesus.ox.ac.uk/) Oxford with a college scholarship. The college crest of Jesus College features three deer, and I am happy to have one surrounding me.
 
 
 Service
 -----
 I am a referee for journals including
 
-Nature, Nature Physics, Nature Communications, npj Quantum information, Physical Review (PR) journals (Physical Review Letters, PRX Quantum, PR Research, PR Applied, PRA, PRB, PRE), Quantum, Scientific Reports, Entropy, Algorithms, Applied Science, etc; 
+Nature, Nature Physics, Nature Communications, npj Quantum Information, Physical Review (PR) journals (Physical Review Letters, PRX Quantum, PR Research, PR Applied, PRA, PRB, PRE), Quantum, Scientific Reports, Entropy, Algorithms, Applied Science, etc; 
 
 and conferences including 
 

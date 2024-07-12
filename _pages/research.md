@@ -95,7 +95,9 @@ Apart from the circuit generation method developed in this work, fast quantum st
 Quantum many-body phenomena
 -----
 
-I have been interested in interesting many-body phenomena since my undergraduate study. I wonder if we could have a better understanding of emergent quantum phenomena in quantum materials, especially high-temperature superconductors and magnetic materials. In my undergraduate thesis, I explored the microscopic origin of electronic nematic order in iron-selenide-based superconductors advised by Yuan Li. Drop me a line if you'd like to know more about my undergraduate thesis. Some related works can be found [here](https://www.nature.com/articles/s41535-023-00604-4) and [here](https://www.sciencedirect.com/science/article/abs/pii/S209592731730628X).
+I have been interested in interesting many-body phenomena since my undergraduate study. I wonder if we could have a better understanding of emergent quantum phenomena in quantum materials, especially high-temperature superconductors and magnetic materials. In my undergraduate thesis, I explored the microscopic origin of electronic nematic order in iron-selenide-based superconductors advised by Yuan Li. Drop me a line if you'd like to know more about my undergraduate thesis. Some interesting findings on FeSe-based superconductors are shown in the [paper](https://arxiv.org/pdf/2407.05548).
+
+Some other works in this domain can be found [here](https://www.nature.com/articles/s41535-023-00604-4) and [here](https://www.sciencedirect.com/science/article/abs/pii/S209592731730628X).
 
 
 Other research topics will be updated later.

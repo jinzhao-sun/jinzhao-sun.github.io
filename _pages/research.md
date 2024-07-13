@@ -100,7 +100,7 @@ I have been interested in interesting many-body phenomena since my undergraduate
 A longstanding question in iron-based superconductors is why superconductivity appears, but the magnetic order is absent in FeSe. It is important because it will enhance our understanding of the mechanism of unconventional superconductivity. One scenario is that the stripe magnetic order in FeSe is absent
 because of the development of other competing instabilities, in particular, the in-plane frustrated magnetic interactions. The results of a series of experiments suggest a ferromagnetic inter-layer coupling in FeSe, which sheds light on the absence of magnetic order. Some interesting findings on the $$L$$ modulation in FeSe-based superconductors are shown in the [paper](https://arxiv.org/pdf/2407.05548).
 
-Some other works in this domain can be found [here](https://www.nature.com/articles/s41535-023-00604-4) and [here](https://www.sciencedirect.com/science/article/abs/pii/S209592731730628X).
+Some other works on unconventional superconductivity, magnetism, and topological materials can be found [here](https://www.nature.com/articles/s41535-023-00604-4) and [here](https://www.sciencedirect.com/science/article/abs/pii/S209592731730628X).
 
 
 Other research topics will be updated later.

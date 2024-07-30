@@ -70,10 +70,14 @@ I have been thinking of the crossover between static problems and dynamics probl
 Quantum error mitigation and its transition to quantum error correction
 -----
 
+**Quantum error mitigation**
 To effectively demonstrate the utility of quantum computing, we must confront challenges associated with the practical use of noisy quantum computers. Errors are an inherent aspect of quantum computing. Ensuring that quantum computing delivers accurate results in the presence of these errors is a critical consideration. Together with Suguru, Xiao, Simon and Vlatko, we initially proposed new QEM schemes to mitigate realistic noise described by Lindbladian appearing in both digital and analogue quantum devices. For noise from imperfections of the engineered Hamiltonian or additional noise operators, we showed it can be effectively suppressed by a new QEM method, termed stochastic QEM. Our method only requires accurate single qubit controls, and is thus applicable to all digital quantum computers and various analogue simulators. Find more information in our paper, "Mitigating realistic noise in practical noisy intermediate-scale quantum devices" [link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034026).
 
-I have been wondering how to overcome the fundamental limits set up by QEM. This motivates us to think about an intermediate form between QEM and QEC. In recent work, we introduced an information-theoretic machinery, a commutation-derived quantum filter, to purify or correct quantum channels. This addresses the sampling problem in QEM. Find more in our paper with Sumit, Michael, Balint, and Myungshik, "Purification and correction of quantum channels by commutation-derived
-quantum filters" [link](https://arxiv.org/pdf/2407.20173).
+**Purification of quantum channels**
+I have been wondering how to overcome the fundamental limits set up by QEM. This motivates us to think about an intermediate form between QEM and QEC. In recent work, we introduced an information-theoretic machinery, a commutation-derived quantum filter, to purify or correct quantum channels. This addresses the exponential sampling problem in QEM. Compared to QEC codes, this quantum filter does not need complicated encoding and decoding.
+
+Find more in our paper, "Purification and correction of quantum channels by commutation-derived
+quantum filters" [link](https://arxiv.org/pdf/2407.20173), with Sumit, Michael, Balint, and Myungshik.
 
 
 Quantum computational chemistry

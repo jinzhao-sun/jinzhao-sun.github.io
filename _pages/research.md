@@ -19,7 +19,9 @@ I have a broad interest in quantum computing, quantum information, and quantum m
 * Quantum computational chemistry
   * Quantum chemistry simulation with superconducting qubits
   * Addressing the challenges in quantum state measurements
-* Quantum many-body phenomena
+* Quantum many-body physics
+  * High-temperature superconductivity
+  * Magnetism and topology
 
 
 

@@ -12,11 +12,9 @@ I am a Research Fellow in quantum computing and quantum physics at Oxford. My re
 
 I have a broad interest in quantum computing, quantum information, and quantum many-body physics, which include
 * Quantum computing
-  *  Eigenstate problems
-  *  Dynamics problems
+  *  Quantum algorithms for eigenstate problems and dynamics problems
   *  Hybrid quantum-classical computing
   *  Quantum simulation of molecules and materials
-  *  Quantum computing and spectroscopy
   *  Addressing the challenges with near-term quantum devices
 * Quantum error mitigation and its transition to quantum error correction
 * Quantum computational chemistry

@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a researcher in quantum computing and quantum physics at Oxford where I am a Schmidt AI in Science Fellow and associate research fellow at Reuben College. My research revolves around quantum computing, quantum information, and quantum many-body physics. My research lies in the exploration of quantum computing as a means to address problems that present challenges for classical computing. I aim to uncover the potential power of quantum computing, and examine whether it holds advantages in tackling quantum many-body problems. 
+I am a researcher in quantum computing and quantum physics at Oxford where I am a Schmidt AI in Science Fellow and Associate Research Fellow at Reuben College. My research revolves around quantum computing, quantum information, and quantum many-body physics. My research lies in the exploration of quantum computing as a means to address problems that present challenges for classical computing. I aim to uncover the potential power of quantum computing, and examine whether it holds advantages in addressing quantum many-body problems. 
 
 I have a broad interest in quantum computing, quantum information, and quantum many-body physics, which include
 * Quantum computing
@@ -16,7 +16,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   *  Hybrid quantum-classical computing
   *  Quantum simulation of molecules and materials
   *  Addressing the challenges with near-term quantum devices
-* Quantum error mitigation and its transition to quantum error correction
+* Quantum error mitigation, error correction, and their intermediate form
 * Quantum computational chemistry
 * Quantum many-body physics, e.g., high-temperature superconductivity, magnetism and topology
   

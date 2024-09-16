@@ -16,7 +16,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   *  Hybrid quantum-classical computing
   *  Quantum simulation of molecules and materials
   *  Addressing the challenges with near-term quantum devices
-* Quantum error mitigation, error correction, and their intermediate form
+* Quantum error mitigation, error correction, and their intermediate forms
 * Quantum computational chemistry
 * Quantum many-body physics, e.g., high-temperature superconductivity, magnetism and topology
   

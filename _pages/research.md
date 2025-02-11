@@ -19,9 +19,12 @@ I have a broad interest in quantum computing, quantum information, and quantum m
 * Quantum computational chemistry
   * Quantum chemistry simulation with superconducting qubits
   * Addressing the challenges in quantum state measurements
+* Foundation questions in quantum information theory
+  * Minimal number of measurments for quantum state tomography
 * Quantum many-body physics
   * High-temperature superconductivity
   * Magnetism and topology
+
 
 
 
@@ -63,7 +66,7 @@ To facilitate the practical applications of quantum computing, I have worked wit
 
 Estimating spectral features of quantum many-body systems has attracted great attention in material science
 and quantum chemistry. To achieve this task, various experimental and theoretical techniques have been developed, including spectroscopy techniques, and quantum simulation either by engineering controlled quantum
-devices or executing quantum algorithms. However, probing a quantum system's behaviour is challenging and demands substantial resources for both approaches. For instance, a real probe by neutron spectroscopy requires access to large-scale facilities with high-intensity neutron beams, while quantum computing of eigenenergies, such as phase estimation, typically requires a long coherence time in engineering controlled quantum devices. In a recent project, we established a framework for probing the excitation spectrum of quantum many-body systems with quantum simulators. Find more information in our paper, "Probing spectral features of quantum many-body systems with quantum simulators" [link](https://arxiv.org/abs/2305.07649) in collaboration with Lucia, Myungshik, Andrew and Vlatko. This paper was recently accepted for publication in Nature Communications.
+devices or executing quantum algorithms. However, probing a quantum system's behaviour is challenging and demands substantial resources for both approaches. For instance, a real probe by neutron spectroscopy requires access to large-scale facilities with high-intensity neutron beams, while quantum computing of eigenenergies, such as phase estimation, typically requires a long coherence time in engineering controlled quantum devices. In a recent project, we established a framework for probing the excitation spectrum of quantum many-body systems with quantum simulators. Find more information in our paper, "Probing spectral features of quantum many-body systems with quantum simulators" published in Nature Communications [link](https://doi.org/10.1038/s41467-025-55955-2) in collaboration with Lucia, Myungshik, Andrew and Vlatko.  
 
 I have been thinking of the crossover between static problems and dynamics problems, well-established spectroscopy techniques and quantum computing, and many seemingly different subjects. Some philosophical discussions on the notion of quantum machine, quantum simulation and spectroscopy can be found in my [thesis](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d).
 
@@ -75,7 +78,7 @@ Quantum error mitigation and its transition to quantum error correction
 **Quantum error mitigation**
 To effectively demonstrate the utility of quantum computing, we must confront challenges associated with the practical use of noisy quantum computers. Errors are an inherent aspect of quantum computing. Ensuring that quantum computing delivers accurate results in the presence of these errors is a critical consideration. Together with Suguru, Xiao, Simon and Vlatko, we initially proposed new QEM schemes to mitigate realistic noise described by Lindbladian appearing in both digital and analogue quantum devices. For noise from imperfections of the engineered Hamiltonian or additional noise operators, we showed it can be effectively suppressed by a new QEM method, termed stochastic QEM. Our method only requires accurate single qubit controls, and is thus applicable to all digital quantum computers and various analogue simulators. Find more information in our paper, "Mitigating realistic noise in practical noisy intermediate-scale quantum devices" [link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034026).
 
-**Purification of quantum channels**
+**Purification of quantum channels, a systematic way beyond QEM**
 I have been wondering how to overcome the fundamental limits set up by QEM. This motivates us to think about an intermediate form between QEM and QEC. In recent work, we introduced an information-theoretic machinery, a commutation-derived quantum filter, to purify or correct quantum channels. This addresses the exponential sampling problem in QEM. Compared to QEC codes, this quantum filter does not need complicated encoding and decoding, and works in an error reduction sense.
 
 Find more in our paper, "Purification and correction of quantum channels by commutation-derived
@@ -98,7 +101,13 @@ I'd like to thank Weitang, Vlatko, Myungshik, Heng, Changsu, Dingshun and Junjie
 
 Apart from the circuit generation method developed in this work, fast quantum state measurement is crucial. This leverages the overlapped grouping method that was developed before. Find more information in our paper, "Experimental quantum state measurement with classical shadows" [link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.200501), and "Overlapped grouping measurement: A unified framework for measuring quantum states" [link](https://quantum-journal.org/papers/q-2023-01-13-896/). Interestingly, the current advanced measurement schemes, like the classical shadow method and its variants (derandomised shadow and adaptive shadow), can be understood in the framework presented in the [paper](https://quantum-journal.org/papers/q-2023-01-13-896/) and [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.200501).
 
- 
+
+**Minimal number of measurments for quantum state tomography**
+
+
+Pauli proposed a problem in 1933: can an arbitrary wave function be uniquely determined by measuring its position and momentum? This Pauli problem was further generalised and cast into a quantum information question: whether an unknown pure state can be uniquely determined using two measurement bases. The answer to the Pauli problem is, unfortunately, negative: four bases are needed in general. However, we prove that two measurements are sufficient to determine any pure state generated by quantum gates (with arbitrary, but finite, number of gates, say Clifford + T gates). More generally, we prove that they are informationally complete for determining any algebraic pure states, which covers all pure states that are physically accessible. Our work provides an affirmative answer to this long-standing question. Find more inforamtion in our [paper](https://arxiv.org/abs/2501.17061).
+
+
 Quantum many-body phenomena
 -----
 

@@ -19,7 +19,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
 * Quantum computational chemistry
 * Quantum many-body physics, e.g., high-temperature superconductivity, magnetism and topology
   
-Find some interesting research topics and descriptions of my selected research works under **[Research(research.md)]**. 
+Find some interesting research topics and descriptions of my selected research works under **[Research](research.md)**. 
 
 A beginner's guide to quantum computing could be found in my thesis below. Some philosophical discussions on the notion of quantum machines, quantum simulation and spectroscopy can also be found there.
 

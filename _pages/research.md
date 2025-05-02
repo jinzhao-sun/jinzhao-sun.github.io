@@ -15,13 +15,13 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   *  Hybrid quantum-classical computing
   *  Quantum simulation of molecules and materials
   *  Quantum computing and spectroscopy
-* Quantum error mitigation and its transition to quantum error correction
-* Quantum computational chemistry
+* [Quantum error mitigation and its transition to quantum error correction](#QEM)
+* [Quantum computational chemistry](#chemistry)
   * Quantum chemistry simulation with superconducting qubits
   * Addressing the challenges in quantum state measurements
-* Fundemental questions in quantum information theory
-  * Minimal number of measurments for quantum state tomography
-* Quantum many-body physics
+* [Fundamental questions in quantum information theory](#QIT)
+  * Minimal number of measurements for quantum state tomography
+* [Quantum many-body physics](#QMB)
   * High-temperature superconductivity
   * Magnetism and topology
 
@@ -51,7 +51,6 @@ Adaptive product formulae. We introduced an adaptive product formula which can p
 High-precision Hamiltonian simulation.  In more recent work, we introduced a new Hamiltonian simulation method that achieves near-optimal asymptotic scaling in nearly all the parameters, such as system size (number of qubits), time, and precision, in collaboration with Pei, Liang and Qi. This method offers several notable advantages (1) easy implementation (at most one ancillary qubit) (2) near-optimal system size scaling (3) high accuracy $$\log(\epsilon^{-1})$$. Find more information in our paper, “Simple and high-precision Hamiltonian simulation by compensating Trotter error with a linear combination of unitary (LCU) operations” [link](https://arxiv.org/abs/2212.04566).
 
 
-
 **Hybrid quantum-classical computing**
 I have been extensively working on hybrid quantum-classical computing. Among this paradigm, variational quantum algorithms are one of the promising candidates. The basic idea is to use a small quantum computer to carry out a hard-to-compute subroutine and a classical computer for optimisation. Hybrid quantum-classical computing has gathered massive attention recently since its proposal. With Suguru, Xiao, Ying and Simon, we proposed variational algorithms for simulating open system dynamics and general processes. Find more information in our paper, "Variational quantum simulation of general processes" ([link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.010501)). An application is to simulate $$\lambda\phi^4$$ scalar quantum field theories. We discussed the encoding of the field theory problem under different bases and in either real space or momentum space, variational state preparation, simulation of particle scattering, and resource requirements in collaboration with Junyu, Zimu, Han and Xiao. Find more information in our paper, "Towards a variational Jordan-Lee-Preskill quantum algorithm" [link](https://iopscience.iop.org/article/10.1088/2632-2153/aca06b/meta). Other applications in quantum many-body problems are discussed below.
 
@@ -73,7 +72,7 @@ Find more information in our paper, "Probing spectral features of quantum many-b
 I have been thinking of the crossover between static problems and dynamics problems, well-established spectroscopy techniques and quantum computing, and many seemingly different subjects. Some philosophical discussions on the notion of quantum machine, quantum simulation and spectroscopy can be found in my [thesis](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d).
 
 
-
+<a id="QEM"></a>
 Quantum error mitigation and its transition to quantum error correction
 -----
 
@@ -87,7 +86,7 @@ I have been wondering how to overcome the fundamental limits set up by QEM. This
 Find more in our paper, "Purification and correction of quantum channels by commutation-derived
 quantum filters" [link](https://arxiv.org/pdf/2407.20173), with Sumit, Michael, Balint, and Myungshik.
 
-
+<a id="Chemistry"></a>
 Quantum computational chemistry
 -----
 
@@ -104,13 +103,14 @@ I'd like to thank Weitang, Vlatko, Myungshik, Heng, Changsu, Dingshun and Junjie
 
 Apart from the circuit generation method developed in this work, fast quantum state measurement is crucial. This leverages the overlapped grouping method that was developed before. Find more information in our paper, "Experimental quantum state measurement with classical shadows" [link](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.200501), and "Overlapped grouping measurement: A unified framework for measuring quantum states" [link](https://quantum-journal.org/papers/q-2023-01-13-896/). Interestingly, the current advanced measurement schemes, like the classical shadow method and its variants (derandomised shadow and adaptive shadow), can be understood in the framework presented in the [paper](https://quantum-journal.org/papers/q-2023-01-13-896/) and [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.200501).
 
-
-**Minimal number of measurments for quantum state tomography**
+<a id="QIT"></a>
+Minimal number of measurements for quantum state tomography
+-----
 
 
 Pauli proposed a problem in 1933: can an arbitrary wave function be uniquely determined by measuring its position and momentum? This Pauli problem was further generalised and cast into a quantum information question: whether an unknown pure state can be uniquely determined using two measurement bases. The answer to the Pauli problem is, unfortunately, negative: four bases are needed in general. However, we prove that two measurements are sufficient to determine any pure state generated by quantum gates (with arbitrary, but finite, number of gates, say Clifford + T gates). More generally, we prove that they are informationally complete for determining any algebraic pure states, which covers all pure states that are physically accessible. Our work provides an affirmative answer to this long-standing question. Find more inforamtion in our [paper](https://arxiv.org/abs/2501.17061).
 
-
+<a id="QMB"></a>
 Quantum many-body phenomena
 -----
 

@@ -2,7 +2,7 @@
 layout: archive
 title: "Openings"
 permalink: /openings/
-author_profile: true
+author_profile: false
 ---
 
 We are looking for highly motivated PhD students and researchers to visit or join our group in advancing the frontiers of quantum computing, quantum information and quantum simulation. 

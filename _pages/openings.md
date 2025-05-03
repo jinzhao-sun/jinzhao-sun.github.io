@@ -5,7 +5,7 @@ permalink: /openings/
 author_profile: true
 ---
 
-We are looking for highly motivated students and researchers to visit or join our team. 
+We are looking for highly motivated PhD students and researchers to visit or join our group in advancing the frontiers of quantum computing, quantum information and quantum simulation. 
 
 We welcome and support applications for individual postdoctoral research fellowships.
 1. [Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA)](https://www.qmul.ac.uk/spcs/ctp/opportunities/fellowships/), QMUL internal deadline in early July, decision in February  
@@ -15,4 +15,4 @@ We welcome and support applications for individual postdoctoral research fellows
 5. [Marshall Sherfield Fellowship](https://www.marshallscholarship.org/apply/marshall-sherfield/), deadline in December 2025, decision in January. US applicants only
 
 
-Feel free to contact me if you are interested in my research or joining the group.
+Feel free to reach out to me if you are interested in joining or visiting the group.

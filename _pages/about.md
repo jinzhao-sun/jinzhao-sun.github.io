@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Lecturer (Assistant Professor) at Queen Mary University of London. Before taking up this faculty position, I held the Schmidt AI in Science Fellowship at the University of Oxford and Associate Research Fellowship at Reuben College Oxford. 
 
-**Research interests** My research revolves around quantum computing, quantum information, and quantum many-body physics. My research lies in the exploration of quantum computing as a means to address problems that present challenges for classical computing. I aim to uncover the potential power of quantum computing, and examine whether it holds advantages in addressing quantum many-body problems. 
+**Research interests**: My research revolves around quantum computing, quantum information, and quantum many-body physics. My research lies in the exploration of quantum computing as a means to address problems that present challenges for classical computing. I aim to uncover the potential power of quantum computing, and examine whether it holds advantages in addressing quantum many-body problems. 
 
 I have broad interest in quantum computing, quantum information, and quantum many-body physics, which include
 * Quantum computing and quantum simulation
@@ -24,14 +24,14 @@ I have broad interest in quantum computing, quantum information, and quantum man
   
 Find some interesting research topics and descriptions of my selected research works under **[Research](research.md)**. 
 
-**Openings** Feel free to reach out to me if you are interested in joining or visiting the group, see **[Openings](openings.md)**.
-
-**Tutorials** A beginner's guide to quantum computing could be found in my thesis below. Some philosophical discussions on the notion of quantum machines, quantum simulation and spectroscopy can also be found there.
+**Openings**: Feel free to reach out to me if you are interested in joining or visiting the group, see **[Openings](openings.md)**.
 
 **Thesis**:
 Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy ([link](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d))
 
 PhD thesis, University of Oxford
+
+A beginner's guide to quantum computing could be found in my thesis above. Some philosophical discussions on the notion of quantum machines, quantum simulation and spectroscopy can also be found there.
 
 
 

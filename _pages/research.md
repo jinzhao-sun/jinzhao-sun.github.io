@@ -27,10 +27,10 @@ I have a broad interest in quantum computing, quantum information, and quantum m
 
 
 
-<a id="quantum-computing"></a>
+
 Quantum computing
 -----
-
+<a id="quantum-computing"></a>
 Quantum problems can be broadly classified into two categories: static problems and dynamics problems. Static problems correspond to finding a quantum system's lowest energy state or, more generally, its eigenstate. Applications range from drug design to uncovering novel phases of matter, which, to most extent, can be transformed into an eigenstate problem. Dynamics problems include simulating the dynamics of a quantum system, for example, simulating the dynamics governed by a Hamiltonian, also known as Hamiltonian simulation. Applications include identifying dissipative phase transitions and studying information scrambling and transport.  
 
 I have been working on improving algorithmic complexity in the two general classes of quantum problems. 

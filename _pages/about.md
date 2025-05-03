@@ -21,6 +21,8 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   
 Find some interesting research topics and descriptions of my selected research works under **[Research](research.md)**. 
 
+Feel free to reach out to me if you are interested in joining or visiting the group, see **[Openings](openings.md)**.
+
 A beginner's guide to quantum computing could be found in my thesis below. Some philosophical discussions on the notion of quantum machines, quantum simulation and spectroscopy can also be found there.
 
 **Thesis**:

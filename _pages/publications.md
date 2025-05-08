@@ -127,7 +127,7 @@ Find descriptions of my research works under **Research**.
   **J Sun**, X Yuan, T Tsunoda, V Vedral, SC Benjamin, S Endo  
   *Physical Review Applied 15 (3), 034026* | 2021-03-05
 
-- 🔹**Variational quantum simulation of general processes**  
+- **Variational quantum simulation of general processes**  
   S Endo, **J Sun**, Y Li, SC Benjamin, X Yuan  
   *Physical Review Letters 125 (1), 010501* | 2020-07-02
 

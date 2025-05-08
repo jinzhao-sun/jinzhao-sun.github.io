@@ -44,7 +44,7 @@ Find descriptions of my research works under **Research**.
   *Physical Review B 110 (17), 174503* | 2024-11-01
 
 - 🔹**Experimental quantum computational chemistry with optimized unitary coupled cluster ansatz**  
-  S Guo*, **J Sun**\*, H Qian*, M Gong*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ..., J.W. Pan  
+  S Guo*, **J Sun**\*, H Qian*, M Gong*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ..., JW Pan  
   *Nature Physics 20 (8), 1240-1246* | 2024-08-01
 
 - 🔹**Purification and correction of quantum channels by commutation-derived quantum filters** †<br> 
@@ -56,7 +56,7 @@ Find descriptions of my research works under **Research**.
   *arXiv preprint arXiv:2406.04307* | 2024-06-06
 
 - **Weyl metallic state induced by helical magnetic order**  
-  JR Soh, I Sánchez-Ramírez, X Yang, **J Sun**, I Zivkovic, ..., A.T. Boothroyd  
+  JR Soh, I Sánchez-Ramírez, X Yang, **J Sun**, I Zivkovic, ..., AT Boothroyd  
   *npj Quantum Materials 9 (1), 7* | 2024-05-15
 
 - **Orbital expansion variational quantum eigensolver**  

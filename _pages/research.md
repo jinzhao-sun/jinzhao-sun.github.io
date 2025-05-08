@@ -16,6 +16,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   *  Quantum simulation of molecules and materials
   *  Quantum computing and spectroscopy
 * [Quantum error mitigation and its transition to quantum error correction](#QEM)
+* [Open quantum dynamics and non-Markovianity](open_quantum)
 * [Quantum computational chemistry](#chemistry)
   * Quantum chemistry simulation with superconducting qubits
   * Addressing the challenges in quantum state measurements
@@ -85,6 +86,11 @@ I have been wondering how to overcome the fundamental limits set up by QEM. This
 
 Find more in our paper, "Purification and correction of quantum channels by commutation-derived
 quantum filters" [link](https://arxiv.org/pdf/2407.20173), with Sumit, Michael, Balint, and Myungshik.
+
+Open quantum dynamics and non-Markovianity
+-----
+<a id="open_quantum"></a>
+I am working along this line recently. More details will be added later.
 
 
 Quantum computational chemistry

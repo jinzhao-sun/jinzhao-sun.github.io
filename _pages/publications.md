@@ -10,7 +10,7 @@ author_profile: false
   <div class="wordwrap">You can find a list of my publications on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
 
-Find descriptions of my research works under **Research**.
+Find descriptions of my research works under **[Research](research.md)**. 
 
 🔹 Selected papers
 

@@ -19,7 +19,7 @@ Find descriptions of my research works under **Research**.
 ⭑ Co-first Author
 
 
-- **Efficient noise tailoring and detection of hypergraph states using Clifford circuitss** †<br>
+- **Efficient noise tailoring and detection of hypergraph states using Clifford circuits** †<br>
   G Park, **J Sun**, H Jeong  
   *arXiv preprint arXiv:2503.12870* | 2025-03-28
 
@@ -27,7 +27,7 @@ Find descriptions of my research works under **Research**.
   P Zeng, **J Sun**, L Jiang, Q Zhao  
   *PRX Quantum 6 (1), 010359* | 2025-01-01
 
-- 🔹**Probing spectral features of quantum many-body systems with quantum simulatorss** †<br> 
+- 🔹**Probing spectral features of quantum many-body systems with quantum simulators** †<br> 
   **J Sun**, L Vilchez-Estevez, V Vedral, AT Boothroyd, MS Kim  
   *Nature Communications 16 (1), 1-13* | 2025-01-01
 
@@ -35,7 +35,7 @@ Find descriptions of my research works under **Research**.
   Y Zhang, X Zhang, **J Sun**, H Lin, Y Huang, D Lv, X Yuan  
   *arXiv preprint arXiv:2502.02139* | 2025-02-02
 
-- 🔹**Two measurement bases are asymptotically informationally complete for any pure state tomographys** †<br> 
+- 🔹**Two measurement bases are asymptotically informationally complete for any pure state tomography** †<br> 
   T Feng*, T Xiao*, Y Wang, S Pang, F Hanif, X Zhou, Q Zhao, MS Kim, **J Sun**  
   *arXiv preprint arXiv:2501.17061* | 2025-01-25
 
@@ -44,10 +44,10 @@ Find descriptions of my research works under **Research**.
   *Physical Review B 110 (17), 174503* | 2024-11-01
 
 - 🔹**Experimental quantum computational chemistry with optimized unitary coupled cluster ansatz**  
-  S Guo*, **J Sun***, H Qian*, M Gong*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ..., J.W. Pan  
+  S Guo*, **J Sun**\*, H Qian*, M Gong*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ..., J.W. Pan  
   *Nature Physics 20 (8), 1240-1246* | 2024-08-01
 
-- 🔹**Purification and correction of quantum channels by commutation-derived quantum filterss** †<br> 
+- 🔹**Purification and correction of quantum channels by commutation-derived quantum filters** †<br> 
   S Das, **J Sun**, M Hanks, B Koczor, MS Kim  
   *arXiv preprint arXiv:2407.20173* | 2024-07-24
 
@@ -67,7 +67,7 @@ Find descriptions of my research works under **Research**.
   W Yu, **J Sun**, Z Han, X Yuan  
   *Quantum 7, 1045* | 2023-09-01
 
-- **Efficient quantum imaginary time evolution by drifting real-time evolution: An approach with low gate and measurement complexitys** †<br> 
+- **Efficient quantum imaginary time evolution by drifting real-time evolution: An approach with low gate and measurement complexity ** †<br> 
   Y Huang, Y Shao, W Ren, **J Sun**, D Lv  
   *Journal of Chemical Theory and Computation 19 (13), 3868-3876* | 2023-07-13
 
@@ -79,7 +79,7 @@ Find descriptions of my research works under **Research**.
   X Xu, S Benjamin, **J Sun**, X Yuan, P Zhang  
   *arXiv preprint arXiv:2302.08880* | 2023-02-17
 
-- 🔹**Low-depth Hamiltonian simulation by an adaptive product formulas** †<br> 
+- 🔹**Low-depth Hamiltonian simulation by an adaptive product formula** †<br> 
   ZJ Zhang*, **J Sun***, X Yuan, MH Yung  
   *Physical Review Letters 130 (4), 040601* | 2023-01-27
 
@@ -115,7 +115,7 @@ Find descriptions of my research works under **Research**.
   T Zhang*, **J Sun***, XX Fang, XM Zhang, X Yuan, H Lu  
   *Physical Review Letters 127 (20), 200501* | 2021-11-15
 
-- **Universal quantum algorithmic cooling on a quantum computers** †<br> 
+- **Universal quantum algorithmic cooling on a quantum computer** †<br> 
   P Zeng, **J Sun**, X Yuan  
   *arXiv preprint arXiv:2109.15304* | 2021-09-30
 
@@ -123,7 +123,7 @@ Find descriptions of my research works under **Research**.
   X Yuan, **J Sun**, J Liu, Q Zhao, Y Zhou  
   *Physical Review Letters 127 (4), 040501* | 2021-07-23
 
-- 🔹**Mitigating realistic noise in practical noisy intermediate-scale quantum devicess** †<br> 
+- 🔹**Mitigating realistic noise in practical noisy intermediate-scale quantum devices** †<br> 
   **J Sun**, X Yuan, T Tsunoda, V Vedral, SC Benjamin, S Endo  
   *Physical Review Applied 15 (3), 034026* | 2021-03-05
 

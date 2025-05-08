@@ -23,7 +23,7 @@ Find descriptions of my research works under **Research**.
   G Park, **J Sun**, H Jeong  
   *arXiv preprint arXiv:2503.12870* | 2025-03-28
 
-- 🔹**Simple and high-precision Hamiltonian simulation by compensating Trotter error with linear combination of unitary operationss** †<br> 
+- 🔹**Simple and high-precision Hamiltonian simulation by compensating Trotter error with linear combination of unitary operations** †<br> 
   P Zeng, **J Sun**, L Jiang, Q Zhao  
   *PRX Quantum 6 (1), 010359* | 2025-01-01
 
@@ -36,7 +36,7 @@ Find descriptions of my research works under **Research**.
   *arXiv preprint arXiv:2502.02139* | 2025-02-02
 
 - 🔹**Two measurement bases are asymptotically informationally complete for any pure state tomography** †<br> 
-  T Feng*, T Xiao*, Y Wang, S Pang, F Hanif, X Zhou, Q Zhao, MS Kim, **J Sun**  
+  T Feng\*, T Xiao\*, Y Wang, S Pang, F Hanif, X Zhou, Q Zhao, MS Kim, **J Sun**  
   *arXiv preprint arXiv:2501.17061* | 2025-01-25
 
 - **Ferromagnetic interlayer coupling in FeSe1−xSx superconductors revealed by inelastic neutron scattering**  

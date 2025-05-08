@@ -19,15 +19,15 @@ Find descriptions of my research works under **Research**.
 ⭑ Co-first Author
 
 
-- **Efficient noise tailoring and detection of hypergraph states using Clifford circuits** † 
+- **Efficient noise tailoring and detection of hypergraph states using Clifford circuitss** †<br>
   G Park, **J Sun**, H Jeong  
   *arXiv preprint arXiv:2503.12870* | 2025-03-28
 
-- 🔹**Simple and high-precision Hamiltonian simulation by compensating Trotter error with linear combination of unitary operations** † 
+- 🔹**Simple and high-precision Hamiltonian simulation by compensating Trotter error with linear combination of unitary operationss** †<br> 
   P Zeng, **J Sun**, L Jiang, Q Zhao  
   *PRX Quantum 6 (1), 010359* | 2025-01-01
 
-- 🔹**Probing spectral features of quantum many-body systems with quantum simulators** † 
+- 🔹**Probing spectral features of quantum many-body systems with quantum simulatorss** †<br> 
   **J Sun**, L Vilchez-Estevez, V Vedral, AT Boothroyd, MS Kim  
   *Nature Communications 16 (1), 1-13* | 2025-01-01
 
@@ -35,7 +35,7 @@ Find descriptions of my research works under **Research**.
   Y Zhang, X Zhang, **J Sun**, H Lin, Y Huang, D Lv, X Yuan  
   *arXiv preprint arXiv:2502.02139* | 2025-02-02
 
-- 🔹**Two measurement bases are asymptotically informationally complete for any pure state tomography** † 
+- 🔹**Two measurement bases are asymptotically informationally complete for any pure state tomographys** †<br> 
   T Feng*, T Xiao*, Y Wang, S Pang, F Hanif, X Zhou, Q Zhao, MS Kim, **J Sun**  
   *arXiv preprint arXiv:2501.17061* | 2025-01-25
 
@@ -47,11 +47,11 @@ Find descriptions of my research works under **Research**.
   S Guo*, **J Sun***, H Qian*, M Gong*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ...  
   *Nature Physics 20 (8), 1240-1246* | 2024-08-01
 
-- 🔹**Purification and correction of quantum channels by commutation-derived quantum filters** † 
+- 🔹**Purification and correction of quantum channels by commutation-derived quantum filterss** †<br> 
   S Das, **J Sun**, M Hanks, B Koczor, MS Kim  
   *arXiv preprint arXiv:2407.20173* | 2024-07-24
 
-- 🔹**High-precision and low-depth eigenstate property estimation** † 
+- 🔹**High-precision and low-depth eigenstate property estimations** †<br> 
   **J Sun**, P Zeng, T Gur, MS Kim  
   *arXiv preprint arXiv:2406.04307* | 2024-06-06
 
@@ -67,7 +67,7 @@ Find descriptions of my research works under **Research**.
   W Yu, **J Sun**, Z Han, X Yuan  
   *Quantum 7, 1045* | 2023-09-01
 
-- **Efficient quantum imaginary time evolution by drifting real-time evolution: An approach with low gate and measurement complexity** † 
+- **Efficient quantum imaginary time evolution by drifting real-time evolution: An approach with low gate and measurement complexitys** †<br> 
   Y Huang, Y Shao, W Ren, **J Sun**, D Lv  
   *Journal of Chemical Theory and Computation 19 (13), 3868-3876* | 2023-07-13
 
@@ -79,7 +79,7 @@ Find descriptions of my research works under **Research**.
   X Xu, S Benjamin, **J Sun**, X Yuan, P Zhang  
   *arXiv preprint arXiv:2302.08880* | 2023-02-17
 
-- 🔹**Low-depth Hamiltonian simulation by an adaptive product formula** † 
+- 🔹**Low-depth Hamiltonian simulation by an adaptive product formulas** †<br> 
   ZJ Zhang*, **J Sun***, X Yuan, MH Yung  
   *Physical Review Letters 130 (4), 040601* | 2023-01-27
 
@@ -87,7 +87,7 @@ Find descriptions of my research works under **Research**.
   B Wu*, **J Sun***, Q Huang, X Yuan  
   *Quantum 7, 896* | 2023-01-15
 
-- 🔹**Towards a variational Jordan–Lee–Preskill quantum algorithm** † 
+- 🔹**Towards a variational Jordan–Lee–Preskill quantum algorithms** †<br> 
   J Liu, Z Li, H Zheng, X Yuan, **J Sun**  
   *Machine Learning: Science and Technology 3 (4), 045030* | 2022-12-01
 
@@ -115,15 +115,15 @@ Find descriptions of my research works under **Research**.
   T Zhang*, **J Sun***, XX Fang, XM Zhang, X Yuan, H Lu  
   *Physical Review Letters 127 (20), 200501* | 2021-11-15
 
-- **Universal quantum algorithmic cooling on a quantum computer** † 
+- **Universal quantum algorithmic cooling on a quantum computers** †<br> 
   P Zeng, **J Sun**, X Yuan  
   *arXiv preprint arXiv:2109.15304* | 2021-09-30
 
-- 🔹**Quantum simulation with hybrid tensor networks** † 
+- 🔹**Quantum simulation with hybrid tensor networkss** †<br> 
   X Yuan, **J Sun**, J Liu, Q Zhao, Y Zhou  
   *Physical Review Letters 127 (4), 040501* | 2021-07-23
 
-- 🔹**Mitigating realistic noise in practical noisy intermediate-scale quantum devices** † 
+- 🔹**Mitigating realistic noise in practical noisy intermediate-scale quantum devicess** †<br> 
   **J Sun**, X Yuan, T Tsunoda, V Vedral, SC Benjamin, S Endo  
   *Physical Review Applied 15 (3), 034026* | 2021-03-05
 

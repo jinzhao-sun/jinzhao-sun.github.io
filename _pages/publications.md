@@ -13,8 +13,11 @@ author_profile: false
 Find descriptions of my research works under **Research**.
 
 🔹 Selected papers
+
 † (Co-)Corresponding Author
-* Co-first Author
+
+⭑ Co-first Author
+
 
 - **Efficient noise tailoring and detection of hypergraph states using Clifford circuits†**  
   G Park, **J Sun**, H Jeong  
@@ -41,7 +44,7 @@ Find descriptions of my research works under **Research**.
   *Physical Review B 110 (17), 174503* | 2024-11-01
 
 - 🔹**Experimental quantum computational chemistry with optimized unitary coupled cluster ansatz**  
-  S Guo*, **J Sun***, H Qian*, M Gong*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ...  
+  S Guo*, **J Sun⭑**, H Qian*, M Gong*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ...  
   *Nature Physics 20 (8), 1240-1246* | 2024-08-01
 
 - 🔹**Purification and correction of quantum channels by commutation-derived quantum filters†**  
@@ -77,11 +80,11 @@ Find descriptions of my research works under **Research**.
   *arXiv preprint arXiv:2302.08880* | 2023-02-17
 
 - 🔹**Low-depth Hamiltonian simulation by an adaptive product formula†**  
-  ZJ Zhang*, **J Sun***, X Yuan, MH Yung  
+  ZJ Zhang*, **J Sun⭑**, X Yuan, MH Yung  
   *Physical Review Letters 130 (4), 040601* | 2023-01-27
 
 - **Overlapped grouping measurement: A unified framework for measuring quantum states**  
-  B Wu*, **J Sun***, Q Huang, X Yuan  
+  B Wu*, **J Sun⭑**, Q Huang, X Yuan  
   *Quantum 7, 896* | 2023-01-15
 
 - 🔹**Towards a variational Jordan–Lee–Preskill quantum algorithm†**  
@@ -93,7 +96,7 @@ Find descriptions of my research works under **Research**.
   *Physical Review Letters 129 (12), 120505* | 2022-09-16
 
 - **Quantum computing quantum monte carlo**  
-  Y Zhang*, Y Huang*, **J Sun***, D Lv, X Yuan  
+  Y Zhang*, Y Huang*, **J Sun⭑**, D Lv, X Yuan  
   *arXiv preprint arXiv:2206.10431* | 2022-06-21
 
 - **Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy**  
@@ -109,7 +112,7 @@ Find descriptions of my research works under **Research**.
   *Science Bulletin 66 (21), 2181-2188* | 2021-11-01
 
 - **Experimental quantum state measurement with classical shadows**  
-  T Zhang*, **J Sun***, XX Fang, XM Zhang, X Yuan, H Lu  
+  T Zhang*, **J Sun⭑**, XX Fang, XM Zhang, X Yuan, H Lu  
   *Physical Review Letters 127 (20), 200501* | 2021-11-15
 
 - **Universal quantum algorithmic cooling on a quantum computer†**  

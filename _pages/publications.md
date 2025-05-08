@@ -96,7 +96,7 @@ Find descriptions of my research works under **Research**.
   *Physical Review Letters 129 (12), 120505* | 2022-09-16
 
 - **Quantum computing quantum monte carlo**  
-  Y Zhang\*, Y Huang\*, **J Sun***, D Lv, X Yuan  
+  Y Zhang\*, Y Huang\*, **J Sun**\*, D Lv, X Yuan  
   *arXiv preprint arXiv:2206.10431* | 2022-06-21
 
 - **Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy**  
@@ -112,7 +112,7 @@ Find descriptions of my research works under **Research**.
   *Science Bulletin 66 (21), 2181-2188* | 2021-11-01
 
 - **Experimental quantum state measurement with classical shadows**  
-  T Zhang*, **J Sun***, XX Fang, XM Zhang, X Yuan, H Lu  
+  T Zhang\*, **J Sun**\*, XX Fang, XM Zhang, X Yuan, H Lu  
   *Physical Review Letters 127 (20), 200501* | 2021-11-15
 
 - **Universal quantum algorithmic cooling on a quantum computer** †<br> 

@@ -11,12 +11,13 @@ I am a Lecturer (Assistant Professor) at Queen Mary University of London. Before
 
 **Research interests**: My research revolves around quantum computing, quantum information, and quantum many-body physics. My research lies in the exploration of quantum computing as a means to address problems that present challenges for classical computing. I aim to uncover the potential power of quantum computing, and examine whether it holds advantages in addressing quantum many-body problems. 
 
-I have broad interest in quantum computing, quantum information, and quantum many-body physics, which include
+I have a broad interest in quantum computing, quantum information, and quantum many-body physics, which include
 * Quantum computing and quantum simulation
   *  Quantum algorithms for eigenstate problems and dynamics problems
   *  Hybrid quantum-classical computing
   *  Quantum simulation of molecules and materials
   *  Addressing the challenges with near-term quantum devices
+* Open quantum dynamics and non-Markovianity 
 * Quantum error mitigation, error correction, and their intermediate forms
 * Quantum computational chemistry
 * Quantum many-body physics, e.g., high-temperature superconductivity, magnetism and topology

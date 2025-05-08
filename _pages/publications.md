@@ -12,11 +12,130 @@ author_profile: false
 
 Find descriptions of my research works under **Research**.
 
+
+- **Efficient noise tailoring and detection of hypergraph states using Clifford circuits**  
+  G Park, **J Sun**, H Jeong  
+  *arXiv preprint arXiv:2503.12870* | 2025-03-28
+
+- **Simple and high-precision Hamiltonian simulation by compensating Trotter error with linear combination of unitary operations**  
+  P Zeng, **J Sun**, L Jiang, Q Zhao  
+  *PRX Quantum 6 (1), 010359* | 2025-01-01
+
+- **Probing spectral features of quantum many-body systems with quantum simulators**  
+  **J Sun**, L Vilchez-Estevez, V Vedral, AT Boothroyd, MS Kim  
+  *Nature Communications 16 (1), 1-13* | 2025-01-01
+
+- **Fault-tolerant quantum algorithms for quantum molecular systems: A survey**  
+  Y Zhang, X Zhang, **J Sun**, H Lin, Y Huang, D Lv, X Yuan  
+  *arXiv preprint arXiv:2502.02139* | 2025-02-02
+
+- **Two measurement bases are asymptotically informationally complete for any pure state tomography**  
+  T Feng, T Xiao, Y Wang, S Pang, F Hanif, X Zhou, Q Zhao, MS Kim, **J Sun**  
+  *arXiv preprint arXiv:2501.17061* | 2025-01-25
+
+- **Ferromagnetic interlayer coupling in FeSe1−xSx superconductors revealed by inelastic neutron scattering**  
+  M Ma, P Bourges, Y Sidis, **J Sun**, G Wang, K Iida, K Kamazawa, JT Park, ...  
+  *Physical Review B 110 (17), 174503* | 2024-11-01
+
+- **Experimental quantum computational chemistry with optimized unitary coupled cluster ansatz**  
+  S Guo, **J Sun**, H Qian, M Gong, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ...  
+  *Nature Physics 20 (8), 1240-1246* | 2024-08-01
+
+- **Purification and correction of quantum channels by commutation-derived quantum filters**  
+  S Das, **J Sun**, M Hanks, B Koczor, MS Kim  
+  *arXiv preprint arXiv:2407.20173* | 2024-07-24
+
+- **High-precision and low-depth eigenstate property estimation**  
+  **J Sun**, P Zeng, T Gur, MS Kim  
+  *arXiv preprint arXiv:2406.04307* | 2024-06-06
+
+- **Weyl metallic state induced by helical magnetic order**  
+  JR Soh, I Sánchez-Ramírez, X Yang, **J Sun**, I Zivkovic, ...  
+  *npj Quantum Materials 9 (1), 7* | 2024-05-15
+
+- **Orbital expansion variational quantum eigensolver**  
+  Y Wu, Z Huang, **J Sun**, X Yuan, JB Wang, D Lv  
+  *Quantum Science and Technology 8 (4), 045030* | 2023-10-01
+
+- **Robust and efficient Hamiltonian learning**  
+  W Yu, **J Sun**, Z Han, X Yuan  
+  *Quantum 7, 1045* | 2023-09-01
+
+- **Efficient quantum imaginary time evolution by drifting real-time evolution: An approach with low gate and measurement complexity**  
+  Y Huang, Y Shao, W Ren, **J Sun**, D Lv  
+  *Journal of Chemical Theory and Computation 19 (13), 3868-3876* | 2023-07-13
+
+- **Ab initio quantum simulation of strongly correlated materials with quantum embedding**  
+  C Cao, **J Sun**, X Yuan, HS Hu, HQ Pham, D Lv  
+  *npj Computational Materials 9 (1), 78* | 2023-06-15
+
+- **A Herculean task: Classical simulation of quantum computers**  
+  X Xu, S Benjamin, **J Sun**, X Yuan, P Zhang  
+  *arXiv preprint arXiv:2302.08880* | 2023-02-17
+
+- **Low-depth Hamiltonian simulation by an adaptive product formula**  
+  ZJ Zhang, **J Sun**, X Yuan, MH Yung  
+  *Physical Review Letters 130 (4), 040601* | 2023-01-27
+
+- **Overlapped grouping measurement: A unified framework for measuring quantum states**  
+  B Wu, **J Sun**, Q Huang, X Yuan  
+  *Quantum 7, 896* | 2023-01-15
+
+- **Towards a variational Jordan–Lee–Preskill quantum algorithm**  
+  J Liu, Z Li, H Zheng, X Yuan, **J Sun**  
+  *Machine Learning: Science and Technology 3 (4), 045030* | 2022-12-01
+
+- **Perturbative quantum simulation**  
+  **J Sun**, S Endo, H Lin, P Hayden, V Vedral, X Yuan  
+  *Physical Review Letters 129 (12), 120505* | 2022-09-16
+
+- **Quantum computing quantum monte carlo**  
+  Y Zhang, Y Huang, **J Sun**, D Lv, X Yuan  
+  *arXiv preprint arXiv:2206.10431* | 2022-06-21
+
+- **Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy**  
+  **J Sun**  
+  *University of Oxford* | 2022-06-01
+
+- **Toward practical quantum embedding simulation of realistic chemical systems on near-term quantum computers**  
+  W Li, Z Huang, C Cao, Y Huang, Z Shuai, X Sun, **J Sun**, X Yuan, D Lv  
+  *Chemical Science 13 (31), 8953-8962* | 2022-05-15
+
+- **Variational algorithms for linear algebra**  
+  X Xu, **J Sun**, S Endo, Y Li, SC Benjamin, X Yuan  
+  *Science Bulletin 66 (21), 2181-2188* | 2021-11-01
+
+- **Experimental quantum state measurement with classical shadows**  
+  T Zhang, **J Sun**, XX Fang, XM Zhang, X Yuan, H Lu  
+  *Physical Review Letters 127 (20), 200501* | 2021-11-15
+
+- **Universal quantum algorithmic cooling on a quantum computer**  
+  P Zeng, **J Sun**, X Yuan  
+  *arXiv preprint arXiv:2109.15304* | 2021-09-30
+
+- **Quantum simulation with hybrid tensor networks**  
+  X Yuan, **J Sun**, J Liu, Q Zhao, Y Zhou  
+  *Physical Review Letters 127 (4), 040501* | 2021-07-23
+
+- **Mitigating realistic noise in practical noisy intermediate-scale quantum devices**  
+  **J Sun**, X Yuan, T Tsunoda, V Vedral, SC Benjamin, S Endo  
+  *Physical Review Applied 15 (3), 034026* | 2021-03-05
+
+- **Variational quantum simulation of general processes**  
+  S Endo, **J Sun**, Y Li, SC Benjamin, X Yuan  
+  *Physical Review Letters 125 (1), 010501* | 2020-07-02
+
+- **Protonation induced high-Tc phases in iron-based superconductors evidenced by NMR and magnetization measurements**  
+  Y Cui, G Zhang, H Li, H Lin, X Zhu, HH Wen, G Wang, **J Sun**, M Ma, Y Li, ..., W Yu
+  *Science Bulletin 63 (1), 11-16* | 2018-01-15
+  
+
 **Thesis**
 
 Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy ([link](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d))
 
 PhD thesis, Jesus College, University of Oxford
+
 
 **Talks**
 

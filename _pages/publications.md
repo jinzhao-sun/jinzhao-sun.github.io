@@ -44,7 +44,7 @@ Find descriptions of my research works under **Research**.
   S Guo*, **J Sun***, H Qian*, M Gong*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ...  
   *Nature Physics 20 (8), 1240-1246* | 2024-08-01
 
-- **Purification and correction of quantum channels by commutation-derived quantum filters†**  
+- 🔹**Purification and correction of quantum channels by commutation-derived quantum filters†**  
   S Das, **J Sun**, M Hanks, B Koczor, MS Kim  
   *arXiv preprint arXiv:2407.20173* | 2024-07-24
 

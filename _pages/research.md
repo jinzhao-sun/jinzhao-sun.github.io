@@ -16,7 +16,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   *  Quantum simulation of molecules and materials
   *  Quantum computing and spectroscopy
 * [Quantum error mitigation and its transition to quantum error correction](#QEM)
-* [Open quantum dynamics and non-Markovianity](open_quantum)
+* [Open quantum dynamics and non-Markovianity](#open_quantum)
 * [Quantum computational chemistry](#chemistry)
   * Quantum chemistry simulation with superconducting qubits
   * Addressing the challenges in quantum state measurements

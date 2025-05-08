@@ -44,7 +44,7 @@ Find descriptions of my research works under **Research**.
   *Physical Review B 110 (17), 174503* | 2024-11-01
 
 - 🔹**Experimental quantum computational chemistry with optimized unitary coupled cluster ansatz**  
-  S Guo*, **J Sun**\*, H Qian*, M Gong*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ..., JW Pan  
+  S Guo\*, **J Sun**\*, H Qian\*, M Gong\*, Y Zhang, F Chen, Y Ye, Y Wu, S Cao, ..., JW Pan  
   *Nature Physics 20 (8), 1240-1246* | 2024-08-01
 
 - 🔹**Purification and correction of quantum channels by commutation-derived quantum filters** †<br> 
@@ -80,11 +80,11 @@ Find descriptions of my research works under **Research**.
   *arXiv preprint arXiv:2302.08880* | 2023-02-17
 
 - 🔹**Low-depth Hamiltonian simulation by an adaptive product formula** †<br> 
-  ZJ Zhang*, **J Sun***, X Yuan, MH Yung  
+  ZJ Zhang\*, **J Sun**\*, X Yuan, MH Yung  
   *Physical Review Letters 130 (4), 040601* | 2023-01-27
 
 - **Overlapped grouping measurement: A unified framework for measuring quantum states**  
-  B Wu*, **J Sun***, Q Huang, X Yuan  
+  B Wu\*, **J Sun**\*, Q Huang, X Yuan  
   *Quantum 7, 896* | 2023-01-15
 
 - 🔹**Towards a variational Jordan–Lee–Preskill quantum algorithms** †<br> 
@@ -96,7 +96,7 @@ Find descriptions of my research works under **Research**.
   *Physical Review Letters 129 (12), 120505* | 2022-09-16
 
 - **Quantum computing quantum monte carlo**  
-  Y Zhang*, Y Huang*, **J Sun***, D Lv, X Yuan  
+  Y Zhang\*, Y Huang\*, **J Sun***, D Lv, X Yuan  
   *arXiv preprint arXiv:2206.10431* | 2022-06-21
 
 - **Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy**  

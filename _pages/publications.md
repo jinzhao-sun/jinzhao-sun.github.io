@@ -67,7 +67,7 @@ Find descriptions of my research works under **Research**.
   W Yu, **J Sun**, Z Han, X Yuan  
   *Quantum 7, 1045* | 2023-09-01
 
-- **Efficient quantum imaginary time evolution by drifting real-time evolution: An approach with low gate and measurement complexity ** †<br> 
+- **Efficient quantum imaginary time evolution by drifting real-time evolution: An approach with low gate and measurement complexity** †<br> 
   Y Huang, Y Shao, W Ren, **J Sun**, D Lv  
   *Journal of Chemical Theory and Computation 19 (13), 3868-3876* | 2023-07-13
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) at Queen Mary University of London. Before taking up this faculty position, I held the Schmidt AI in Science Fellowship at the University of Oxford and Associate Research Fellowship at Reuben College Oxford. 
+I am a Lecturer (Assistant Professor) at Queen Mary University of London. I also hold the Schmidt AI in Science Fellowship at the University of Oxford and Associate Research Fellowship at Reuben College Oxford. 
 
 **Research interests**: My research revolves around quantum computing, quantum information, and quantum many-body physics. My research lies in the exploration of quantum computing as a means to address problems that present challenges for classical computing. I aim to uncover the potential power of quantum computing, and examine whether it holds advantages in addressing quantum many-body problems. 
 

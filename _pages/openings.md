@@ -17,4 +17,4 @@ We welcome and support applications for postdoctoral-level research fellowships.
 6. EPSRC postdoctoral fellowship. The current round only supports applications in mathematics or energy.
 
 
-Feel free to reach out to me if you are interested in joining or visiting the group.
+Feel free to reach out to me if you are interested in joining or visiting the group, either short-term or long-term.

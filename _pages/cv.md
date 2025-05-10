@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-I have been working on quantum computing, quantum information, and quantum many-body physics. I joined Queen Mary University of London as a faculty member (permanent) in 2025. I am holding a Schmidt AI in Science fellowship and an Associate Fellowship at Reuben College Oxford, where I also serve as a college advisor.
+I have been working on quantum computing, quantum information, and quantum many-body physics. I joined Queen Mary University of London as a faculty member (permanent) in 2025. I am holding a Schmidt AI in Science fellowship and an Associate Fellowship at Reuben College Oxford, where I also serve as the college advisor.
 
-I am very fortunate to be supervised by Vlatko Vedral and Andrew Boothroyd and get entangled with them, who navigated my research in the quantum realm. I did postdoctoral research with Tom Gur at Cambridge, Myungshik Kim at Imperial, Andrew Green at University College London, and came back to Oxford supported by the Fellowship. Previously, I was a [Visiting Scholar](https://www.wolfson.ox.ac.uk/person/jinzhao-sun/) of [Wolfson College](https://www.wolfson.ox.ac.uk/) Oxford, and a member of [Jesus College](https://www.jesus.ox.ac.uk/) Oxford with a college scholarship. The college crest of Jesus College features three deer, and I am happy to have one surrounding me.
+I am very fortunate to be supervised by Vlatko Vedral and Andrew Boothroyd and get entangled with them, who navigated my research in the quantum realm. I did postdoctoral research with Tom Gur at Cambridge, Myungshik Kim at Imperial, Andrew Green at University College London, and came back to Oxford supported by the Fellowship. Previously, I was a Visiting Scholar of Wolfson College Oxford, and a member of [Jesus College](https://www.jesus.ox.ac.uk/) Oxford with a college scholarship. The college crest of Jesus College features three deer, and I am happy to have one surrounding me.
 
 
 Service

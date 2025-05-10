@@ -20,7 +20,9 @@ I am a referee for journals including
 
 Nature, Nature Physics, Nature Communications, npj Quantum Information, Physical Review (PR) journals (Physical Review Letters, PRX Quantum, PR Research, PR Applied, PRA, PRB, PRE), Quantum, Scientific Reports, Entropy, Algorithms, Applied Science, etc; 
 
-and conferences including 
+conferences including 
 
-Quantum Information Processing (QIP), Theory of Quantum Computation, Communication and Cryptography (TQC), Asian Quantum Information Science (AQIS), etc.
+Quantum Information Processing (QIP), Theory of Quantum Computation, Communication and Cryptography (TQC), Asian Quantum Information Science (AQIS), etc;
+
+and funding bodies such as the Swiss National Science Foundation.
  

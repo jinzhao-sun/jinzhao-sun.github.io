@@ -16,5 +16,5 @@ Alexander
 Xiao Wang
 
 
-Previous members
+Co-supervised MSc thesis
 Victor Renon

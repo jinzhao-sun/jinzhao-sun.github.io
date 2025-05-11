@@ -20,6 +20,9 @@ main:
 
   - title: "Openings"
     url: /openings/
+
+  - title: "Members"
+    url: /members/
     
   - title: "Bio"
     url: /cv/

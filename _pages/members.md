@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/images/profile.jpg" alt="Description" width="600">
+<img src="/images/profile.jpg" alt="Description" style="border-radius: 10px; border: 2px solid #ccc; width: 300px;">
 
 Alexander
 

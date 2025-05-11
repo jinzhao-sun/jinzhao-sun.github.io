@@ -18,6 +18,4 @@ Co-supervised MSc thesis
 Victor Renon, Physics, Imperial College
 
 College Advisees at Reuben, Oxford
-Rory Spurgeon (MSc Theoretical and Computational Chemistry)
-Tong Su (MSc Advanced Computer Science)
-Harry Xi (MSc Advanced Computer Science)
+Rory Spurgeon, Tong Su, Harry Xi 

@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<img src="/images/profile.png" alt="Description" width="600">
 
 Alexander
 

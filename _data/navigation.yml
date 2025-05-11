@@ -17,12 +17,14 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-
+  
+  - title: "Members"
+    url: /members/
+    
   - title: "Openings"
     url: /openings/
 
-  - title: "Members"
-    url: /members/
+
     
   - title: "Bio"
     url: /cv/

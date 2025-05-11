@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Alexander Yosifov
-<img src="/images/profile.jpg" alt="Description" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); border: 2px solid #ccc; width: 300px;">
 
+<img src="/images/profile.jpg" alt="Description" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02); border: 2px solid #ccc; width: 150px;">
+Alexander Yosifov
 
 
 Co-supervised MSc thesis
-Victor Renon
+Victor Renon, Physics, Imperial College
 
 College Advisees at Reuben, Oxford
 Rory Spurgeon, Tong Su, Harry Xi

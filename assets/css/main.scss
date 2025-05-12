@@ -10,8 +10,10 @@
  *
 */
 
-body {
-    text-align: left !important;
+/* 使整个页面的内容靠左对齐 */
+.page-content {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
 }
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins

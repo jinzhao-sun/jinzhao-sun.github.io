@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="text-align: left !important;">
+ 
 
 <br>
 <img src="/images/Alexander.jpg" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 225px;">
@@ -32,4 +32,4 @@ Rory Spurgeon, Tong Su, Harry Xi at Reuben College, Oxford
 **MSc Thesis**: Quantifying resource requirements for ground state preparation with state-of-the-art quantum algorithms
 
 
-</div>
+ 

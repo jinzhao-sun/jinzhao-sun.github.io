@@ -4,6 +4,14 @@
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
+
+/* 使整个页面的内容靠左对齐 */
+.page-content {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+
 @font-face {
     font-family: 'Academicons';
     font-style: normal;

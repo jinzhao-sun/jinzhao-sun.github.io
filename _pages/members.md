@@ -10,6 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 **Current Members**
+
 <img src="/images/Alexander.jpg" alt="Description" style="border-radius: 50%; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 225px;">
 Alexander Yosifov 
 

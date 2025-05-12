@@ -7,12 +7,13 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
-**Current Members**
+
 
 <img src="/images/Alexander.jpg" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 225px;">
-Alexander Yosifov 
+
+**Alexander Yosifov**
 
 <details>
   <summary>I am a Visiting Researcher at Queen Mary University of London, working on open quantum systems and quantum state engineering. Previously, I was a Researcher at the Hong Kong Research Center of Huawei, where I developed quantum-based algorithms for optimization.</summary>
@@ -25,10 +26,11 @@ My work examines the behaviour of open dissipation-driven and interacting many-b
 
  
 
-Co-supervised MSc thesis
+**Previous members**
 
-Victor Renon, Physics, Imperial College
+**Victor Renon**, Physics, Imperial College
+**MSc Thesis**: Quantifying resource requirements for ground state preparation with state-of-the-art quantum algorithms
 
-College Advisees at Reuben, Oxford
+Advisees at Reuben College, Oxford
 
 Rory Spurgeon, Tong Su, Harry Xi 

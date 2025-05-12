@@ -22,12 +22,14 @@ Previously, I was a Researcher at the Hong Kong Research Center of Huawei, where
 </details>
 
 
-**Previous members**
+
+**College Advisees** 
+
+Rory Spurgeon, Tong Su, Harry Xi at Reuben College, Oxford
+
+<h3>Previous members</h3>
 
 **Victor Renon**, Physics, Imperial College
 
 **MSc Thesis**: Quantifying resource requirements for ground state preparation with state-of-the-art quantum algorithms
 
-**College Advisees** 
-
-Rory Spurgeon, Tong Su, Harry Xi at Reuben College, Oxford

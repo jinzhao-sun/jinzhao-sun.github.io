@@ -28,6 +28,6 @@ Previously, I was a Researcher at the Hong Kong Research Center of Huawei, where
 
 **MSc Thesis**: Quantifying resource requirements for ground state preparation with state-of-the-art quantum algorithms
 
-Advisees at Reuben College, Oxford
+**College Advisees** 
 
-Rory Spurgeon, Tong Su, Harry Xi 
+Rory Spurgeon, Tong Su, Harry Xi at Reuben College, Oxford

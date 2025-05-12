@@ -29,7 +29,6 @@ Rory Spurgeon, Tong Su, Harry Xi at Reuben College, Oxford
 
 <h2>Previous members</h2>
 
-**Victor Renon**, Physics, Imperial College
-
+**Victor Renon**, Physics, Imperial College<br>
 **MSc Thesis**: Quantifying resource requirements for ground state preparation with state-of-the-art quantum algorithms
 

@@ -23,11 +23,11 @@ Previously, I was a Researcher at the Hong Kong Research Center of Huawei, where
 
 
 
-**College Advisees** 
+<h2>College Advisees</h2>
 
 Rory Spurgeon, Tong Su, Harry Xi at Reuben College, Oxford
 
-<h3>Previous members</h3>
+<h2>Previous members</h2>
 
 **Victor Renon**, Physics, Imperial College
 

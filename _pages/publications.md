@@ -20,7 +20,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 - **Quantum algorithms for quantum molecular systems: A survey**  
   Y Zhang, X Zhang, **J Sun**, H Lin, Y Huang, D Lv, X Yuan  
-  *Wiley Interdisciplinary Reviews: Computational Molecular Science 2025* | 2025-02-02
+  *Wiley Interdisciplinary Reviews: Computational Molecular Science 2025*  
   
 - **Efficient noise tailoring and detection of hypergraph states using Clifford circuits** †<br>
   G Park, **J Sun**, H Jeong  

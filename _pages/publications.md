@@ -18,7 +18,10 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
-
+- **Quantum algorithms for quantum molecular systems: A survey**  
+  Y Zhang, X Zhang, **J Sun**, H Lin, Y Huang, D Lv, X Yuan  
+  *Wiley Interdisciplinary Reviews: Computational Molecular Science 2025* | 2025-02-02
+  
 - **Efficient noise tailoring and detection of hypergraph states using Clifford circuits** †<br>
   G Park, **J Sun**, H Jeong  
   *arXiv preprint arXiv:2503.12870* | 2025-03-28
@@ -30,10 +33,6 @@ Find descriptions of my research works under **[Research](research.md)**.
 - 🔹**Probing spectral features of quantum many-body systems with quantum simulators** †<br> 
   **J Sun**, L Vilchez-Estevez, V Vedral, AT Boothroyd, MS Kim  
   *Nature Communications 16 (1), 1-13* | 2025-01-01
-
-- **Fault-tolerant quantum algorithms for quantum molecular systems: A survey**  
-  Y Zhang, X Zhang, **J Sun**, H Lin, Y Huang, D Lv, X Yuan  
-  *arXiv preprint arXiv:2502.02139* | 2025-02-02
 
 - 🔹**Two measurement bases are asymptotically informationally complete for any pure state tomography** †<br> 
   T Feng\*, T Xiao\*, Y Wang, S Pang, F Hanif, X Zhou, Q Zhao, MS Kim, **J Sun**  

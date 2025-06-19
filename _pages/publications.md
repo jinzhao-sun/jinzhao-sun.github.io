@@ -18,7 +18,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
-- **Randomised composite linear-combination-of-unitaries: its role in quantum simulation and observable estimation**
+- **Randomised composite linear-combination-of-unitaries: its role in quantum simulation and observable estimation**†<br>
   **J Sun**, P Zeng
   *arXiv preprint arXiv:2506.15658*
 

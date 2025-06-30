@@ -5,9 +5,9 @@ permalink: /openings/
 author_profile: false
 ---
 
-We are looking for highly motivated PhD students and researchers to visit or join our group. We would work together to advance the frontiers of quantum computing, quantum information, and quantum simulation. 
+We are looking for highly motivated PhD students and Postdoc researchers to join or visit our group. We would work together to advance the frontiers of quantum computing, quantum information, and quantum simulation. 
 
-We welcome and support applications for postdoctoral-level research fellowships. Note that QMUL runs an internal selection process for postdoctoral fellowship applications. Drop me a line if you'd like to apply through my group at QMUL, and we could put together a strong application.
+We welcome and support applications for postdoctoral-level research fellowships. We also have a separate route for postdoctoral researchers with research proposals in **mathematics**-related directions. If your background or interests align with this area, you're particularly encouraged to reach out. Note that QMUL runs an internal selection process for postdoctoral fellowship applications. Drop me a line if you'd like to apply through my group at QMUL, and we could put together a strong application.
 
 1. [Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA)](https://www.qmul.ac.uk/spcs/ctp/opportunities/fellowships/), QMUL internal deadline in early July, decision in February  
 2. [Newton International Fellowship](https://www.qmul.ac.uk/spcs/ctp/opportunities/fellowships/), internal deadline in February, decision in August

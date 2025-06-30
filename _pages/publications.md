@@ -19,7 +19,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 ⭑ Co-first Author
 
 - **Universal quantum computational spectroscopy on a quantum chip**<br>
-  C Zhai\*, **J Sun**\*, J Huang, J Mao, H Bao, S Zhang, Q Gong, V Vedral, X Yuan, J Wang<br>
+  C Zhai\*, **J Sun**\*, J Huang, J Mao, H Bao, S Zhang, Q Gong, V Vedral, X Yuan, JW Wang<br>
   *arXiv preprint arXiv:2506.22418*
   
 - 🔹**Randomised composite linear-combination-of-unitaries: its role in quantum simulation and observable estimation**†<br>

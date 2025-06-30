@@ -18,10 +18,14 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- **Universal quantum computational spectroscopy on a quantum chip**<br>
+  C Zhai, **J Sun**\*, J Huang, J Mao, H Bao, S Zhang, Q Gong, V Vedral, X Yuan, J Wang
+  *arXiv preprint arXiv:2506.22418*
+  
 - **Randomised composite linear-combination-of-unitaries: its role in quantum simulation and observable estimation**†<br>
   **J Sun**, P Zeng  
   *arXiv preprint arXiv:2506.15658*
-
+  
 - **Quantum algorithms for quantum molecular systems: A survey**  
   Y Zhang, X Zhang, **J Sun**, H Lin, Y Huang, D Lv, X Yuan  
   *Wiley Interdisciplinary Reviews: Computational Molecular Science 2025*  

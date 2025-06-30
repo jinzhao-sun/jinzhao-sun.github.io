@@ -25,7 +25,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   
 Find some interesting research topics and descriptions of my selected research works under **[Research](research.md)**. 
 
-**Openings**: Feel free to reach out to me if you are interested in joining or visiting the group, see **[Openings](openings.md)**.
+**Openings**: Feel free to reach out to me if you are interested in joining our group as a PhD or Postdoc, see **[Openings](openings.md)**.
 
 **Thesis**:
 Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy ([link](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d))

@@ -19,8 +19,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 ⭑ Co-first Author
 
 - **Topological network analysis using a programmable photonic quantum processor**†<br>
-  S Yu\*, **J Sun**\*, Z Li\*, E Mer, YK Alwehaibi, O Scholin, G J. Machado, K Chen, A Zhang, RB Patel, Y Dong, Ian A. Walmsley, V Vedral, G
-  Bianconi
+  S Yu\*, **J Sun**\*, Z Li\*, E Mer, YK Alwehaibi, O Scholin, G J. Machado, K Chen, A Zhang, RB Patel, Y Dong, Ian A. Walmsley, V Vedral, G Bianconi<br>
   *arXiv preprint arXiv:2507.08157*
 
 - **Universal quantum computational spectroscopy on a quantum chip**<br>

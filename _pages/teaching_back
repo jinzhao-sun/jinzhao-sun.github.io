@@ -1,1 +1,18 @@
-<br>
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: false
+---
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Machine and Deep Learning at QMUL
+
+Data Science and Machine Learning at Oxford
+
+Feel free to reach out for the lecture notes, problem sheets and mini-tasks.

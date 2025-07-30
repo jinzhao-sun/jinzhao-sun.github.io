@@ -19,7 +19,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 ⭑ Co-first Author
 
 - **On the emergence of quantum memory in non-Markovian dynamics**†<br>
-  A Yosifov, A Iyer, V Vedral, **J Sun**
+  A Yosifov, A Iyer, V Vedral, **J Sun**<br>
   *arXiv preprint arXiv:2507.21907*
   
 - **Topological network analysis using a programmable photonic quantum processor**†<br>

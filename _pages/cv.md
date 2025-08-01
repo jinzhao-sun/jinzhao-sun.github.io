@@ -15,12 +15,12 @@ I am very fortunate to be supervised by Vlatko Vedral and Andrew Boothroyd and g
 
 Selected Awards and Fellowships
 -----
-Awards for Excellence, University of Oxford
+* Awards for Excellence, University of Oxford
 for "exceptional performance and going above and beyond the requirements of the role"
-Oxford Schmidt AI Fellowship
-Reuben College Research Fellowship
-Jesus College Graduate Scholarship
-11th Doctoral Researcher Awards
+* Oxford Schmidt AI Fellowship
+* Reuben College Research Fellowship
+* Jesus College Graduate Scholarship
+* 11th Doctoral Researcher Awards
 a UK-wide academic competition that promotes and awards scientific excellence among young researchers
 
 

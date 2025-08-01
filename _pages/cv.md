@@ -13,6 +13,21 @@ I have been working on quantum computing, quantum information, and quantum many-
 
 I am very fortunate to be supervised by Vlatko Vedral and Andrew Boothroyd and get entangled with them, who navigated my research in the quantum realm. I did postdoctoral research with Tom Gur at Cambridge, Myungshik Kim at Imperial, Andrew Green at University College London, and came back to Oxford supported by the Fellowship. Previously, I was a Visiting Scholar of Wolfson College Oxford, and a member of [Jesus College](https://www.jesus.ox.ac.uk/) Oxford with a college scholarship. The college crest of Jesus College features three deer, and I am happy to have one surrounding me.
 
+Selected Awards and Fellowships
+-----
+Awards for Excellence, University of Oxford
+for "exceptional performance and going above and beyond the requirements of the role"
+
+Oxford Schmidt AI Fellowship
+
+Reuben College Research Fellowship
+
+Jesus College Graduate Scholarship
+
+11th Doctoral Researcher Awards
+a UK-wide academic competition that promotes and awards scientific excellence among young researchers
+
+
 
 Service
 -----

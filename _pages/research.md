@@ -90,7 +90,10 @@ quantum filters" [link](https://arxiv.org/pdf/2407.20173), with Sumit, Michael, 
 Open quantum dynamics and non-Markovianity
 -----
 <a id="open_quantum"></a>
-I am working along this line recently. More details will be added later.
+I am working along this line recently. 
+
+Non‑Markovian dynamics is ubiquitous in open quantum systems, with memory effects being harnessed as a resource for many tasks like quantum error correction and information processing. Yet, the type of memory---classical or quantum---required to realize a given dynamics remains unknown. In this Letter, we extend the quantum homogenizer to the non-Markovian regime by introducing intra-ancilla interactions mediated by Fredkin gates, and study the nature of its memory. Using entanglement measures and relying only on the local dynamics as a witness, we prove the model can be realized with either classical or quantum memory, depending on the initialization of the reservoir and the propagation of non-classical correlations within it. We further explore how quantum memory emerges across a wide range of practical scenarios. The results shed light on the origin of memory in open quantum systems and can advent the design of near-term quantum technologies for a variety of applications. See [paper](https://arxiv.org/abs/2507.21907).
+
 
 
 Quantum computational chemistry

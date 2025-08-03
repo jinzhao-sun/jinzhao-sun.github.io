@@ -20,7 +20,7 @@ redirect_from:
 Previously, I was a Researcher at the Hong Kong Research Center of Huawei, where I developed quantum-based algorithms for optimization. Prior to that, I was working with Prof. Vlatko Vedral at the University of Oxford, focusing on quantum collision models for steady-state preparation and error mitigation.<br>
 </details>
 
-
+Group members' information will be shortly added
 
 <h2>College Advisees</h2>
 
@@ -29,7 +29,7 @@ Rory Spurgeon, Tong Su, Harry Xi at Reuben College, Oxford
 <h2>Previous members</h2>
 
 **Victor Renon**, Physics, Imperial College<br>
-**MSc Thesis**: Quantifying resource requirements for ground state preparation with state-of-the-art quantum algorithms
+**MSci Thesis**: Quantifying resource requirements for ground state preparation with state-of-the-art quantum algorithms
 
 
  

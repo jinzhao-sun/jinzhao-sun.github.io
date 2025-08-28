@@ -22,7 +22,7 @@ Find descriptions of my research works under **[Research](research.md)**.
   L Vilchez-Estevez, A Yosifov,  **J Sun**<br>
   *arXiv preprint arXiv:2508.19959v1*
 
-- **Quantum computing quantum Monte Carlo algorithm** †<br>
+- **Quantum computing quantum Monte Carlo algorithm**†<br>
   Y Zhang, Y Huang, **J Sun**, D Lv, X Yuan  
   *Phys. Rev. A 112, 022428 (2025) | arXiv preprint arXiv:2206.10431* 
   

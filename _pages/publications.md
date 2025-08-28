@@ -18,6 +18,10 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- **Direct probing of the simulation complexity of open quantum many-body dynamics**†<br>
+  L Vilchez-Estevez, A Yosifov,  **J Sun**<br>
+   *arXiv preprint arXiv:2508.19959v1*
+
 - **On the emergence of quantum memory in non-Markovian dynamics**†<br>
   A Yosifov, A Iyer, V Vedral, **J Sun**<br>
   *arXiv preprint arXiv:2507.21907*

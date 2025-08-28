@@ -18,19 +18,19 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
-- **Direct probing of the simulation complexity of open quantum many-body dynamics**†<br>
+- **Direct probing of the simulation complexity of open quantum many-body dynamics** †<br>
   L Vilchez-Estevez, A Yosifov,  **J Sun**<br>
   *arXiv preprint arXiv:2508.19959v1*
 
-- **Quantum computing quantum Monte Carlo algorithm**†<br>
+- **Quantum computing quantum Monte Carlo algorithm** †<br>
   Y Zhang, Y Huang, **J Sun**, D Lv, X Yuan  
   *Phys. Rev. A 112, 022428 (2025) | arXiv preprint arXiv:2206.10431* 
   
-- **On the emergence of quantum memory in non-Markovian dynamics**†<br>
+- **On the emergence of quantum memory in non-Markovian dynamics** †<br>
   A Yosifov, A Iyer, V Vedral, **J Sun**<br>
   *arXiv preprint arXiv:2507.21907*
   
-- **Topological network analysis using a programmable photonic quantum processor**†<br>
+- **Topological network analysis using a programmable photonic quantum processor** †<br>
   S Yu\*, **J Sun**\*, Z Li\*, E Mer, YK Alwehaibi, O Scholin, G J. Machado, K Chen, A Zhang, RB Patel, Y Dong, Ian A. Walmsley, V Vedral, G Bianconi <br>
   *arXiv preprint arXiv:2507.08157*
 

@@ -22,6 +22,10 @@ Find descriptions of my research works under **[Research](research.md)**.
   L Vilchez-Estevez, A Yosifov,  **J Sun**<br>
   *arXiv preprint arXiv:2508.19959v1*
 
+- **Quantum computing quantum Monte Carlo algorithm** †<br>
+  Y Zhang, Y Huang, **J Sun**, D Lv, X Yuan  
+  *Phys. Rev. A 112, 022428 (2025) | arXiv preprint arXiv:2206.10431* 
+  
 - **On the emergence of quantum memory in non-Markovian dynamics**†<br>
   A Yosifov, A Iyer, V Vedral, **J Sun**<br>
   *arXiv preprint arXiv:2507.21907*
@@ -113,10 +117,6 @@ Find descriptions of my research works under **[Research](research.md)**.
 - 🔹**Perturbative quantum simulation**  
   **J Sun**, S Endo, H Lin, P Hayden, V Vedral, X Yuan  
   *Physical Review Letters 129 (12), 120505* | 2022-09-16
-
-- **Quantum computing quantum monte carlo**  
-  Y Zhang\*, Y Huang\*, **J Sun**\*, D Lv, X Yuan  
-  *arXiv preprint arXiv:2206.10431* | 2022-06-21
 
 - **Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy**  
   **J Sun**  

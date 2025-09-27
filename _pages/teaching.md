@@ -5,11 +5,7 @@ permalink: /teaching/
 author_profile: false
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+ 
 
 **SPC707P Machine and Deep Learning** at QMUL <br>
 

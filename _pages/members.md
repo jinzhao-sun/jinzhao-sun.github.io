@@ -23,11 +23,11 @@ Previously, I was a Researcher at the Hong Kong Research Center of Huawei, where
 Group members' information will be added shortly.
 
 **Shintaro Ae**<br>
-DPhil in Chemistry Oxford (2025-)
+DPhil in Chemistry, Oxford (2025-)<br>
 Co-supervision with David Tew
 
 **Nicholas Charles Bell**<br>
-Undergraduate student
+Undergraduate in Physics, Queen Mary
 
 
 <h2>College Advisees</h2>

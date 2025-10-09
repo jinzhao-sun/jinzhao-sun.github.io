@@ -20,11 +20,19 @@ redirect_from:
 Previously, I was a Researcher at the Hong Kong Research Center of Huawei, where I developed quantum-based algorithms for optimization. Prior to that, I was working with Prof. Vlatko Vedral at the University of Oxford, focusing on quantum collision models for steady-state preparation and error mitigation.<br>
 </details>
 
-Group members' information will be shortly added
+Group members' information will be added shortly.
+
+**Shintaro Ae**<br>
+DPhil in Chemistry Oxford (2025-)
+Co-supervision with David Tew
+
+**Nicholas Charles Bell**<br>
+Undergraduate student
+
 
 <h2>College Advisees</h2>
 
-Rory Spurgeon, Tong Su, Harry Xi at Reuben College, Oxford
+Nathan Hall, Felipe Pombal Fritsch, Christian Sax, Deyao Chen, Rory Spurgeon, Tong Su, Harry Xi at Reuben College, Oxford
 
 <h2>Previous members</h2>
 

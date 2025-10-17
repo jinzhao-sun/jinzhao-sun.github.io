@@ -18,7 +18,7 @@ redirect_from:
 PhD student
 Co-supervision with David Tew Chemistry, Oxford
 
-**Visiting scientist**<br>
+
 **Alexander Yosifov**<br>
 <details>
   <summary>I am a Visiting Researcher at Queen Mary University of London, working on open quantum systems and quantum state engineering. My work examines the behaviour of open dissipation-driven and interacting many-body systems, and quantum information processing in realistic environments, with emphasis on quantum non-Markovian dynamics, and many-body quantum effects with applications to quantum error correction, quantum control, and ground state preparation on near-term devices.</summary><br>

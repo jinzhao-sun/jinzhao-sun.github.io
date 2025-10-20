@@ -19,7 +19,7 @@ redirect_from:
 PhD student<br>
 Co-supervision with David Tew Chemistry, Oxford<br>
 
-My research interest generally lies in the development of quantum algorithms for quantum chemistry. In particular, I am interested in Hamiltonian simulation, developing methods to simulate system dynamics governed by a given Hamiltonian. My past work includes the Hamiltonian simulation using quantum singular value transformation (QSVT) with randomized block encoding, which is particularly suited for quantum chemistry. I also have experience in the development of superconducting quantum computers.<br>
+My research interest generally lies in the development of quantum algorithms for quantum chemistry. In particular, I am interested in Hamiltonian simulation, developing methods to simulate system dynamics governed by a given Hamiltonian. My past work includes the Hamiltonian simulation using quantum singular value transformation (QSVT) with randomised block encoding, which is particularly suited for quantum chemistry. I also have experience in the development of superconducting quantum computers.<br>
 
 
 **Alexander Yosifov**<br>

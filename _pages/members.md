@@ -30,6 +30,7 @@ My research interest generally lies in the development of quantum algorithms for
 Previously, I was a Researcher at the Hong Kong Research Center of Huawei, where I developed quantum-based algorithms for optimization. Prior to that, I was working with Prof. Vlatko Vedral at the University of Oxford, focusing on quantum collision models for steady-state preparation and error mitigation.<br><br>
 </details>
 
+<br>
 
 **Nicholas Charles Bell**<br>
 Undergraduate in Physics, Queen Mary

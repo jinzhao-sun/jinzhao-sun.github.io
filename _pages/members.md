@@ -16,7 +16,7 @@ redirect_from:
 <img src="/images/Shitaro.png" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;"> 
 
 
-PhD student<br>
+**PhD student**<br>
 Co-supervision with David Tew Chemistry, Oxford<br>
 
 My research interest generally lies in the development of quantum algorithms for quantum chemistry. In particular, I am interested in Hamiltonian simulation, developing methods to simulate system dynamics governed by a given Hamiltonian. My past work includes the Hamiltonian simulation using quantum singular value transformation (QSVT) with randomised block encoding, which is particularly suited for quantum chemistry. I also have experience in the development of superconducting quantum computers.<br>

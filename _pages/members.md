@@ -23,8 +23,7 @@ My research interest generally lies in the development of quantum algorithms for
 
 
 **Alexander Yosifov**<br>
-<!-- <br>
-<img src="/images/Alexander.jpg" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;"> -->
+<img src="/images/Alexander.jpg" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;"> 
 
 <details>
   <summary>I am a Visiting Researcher at Queen Mary University of London, working on open quantum systems and quantum state engineering. My work examines the behaviour of open dissipation-driven and interacting many-body systems, and quantum information processing in realistic environments, with emphasis on quantum non-Markovian dynamics, and many-body quantum effects with applications to quantum error correction, quantum control, and ground state preparation on near-term devices.</summary><br>

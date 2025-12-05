@@ -16,6 +16,26 @@ Topic: Quantum computing and quantum many-body simulation.
 
 See project description: [link](https://www.qmul.ac.uk/spcs/ccmp/phd-at-ccmp/phd-projects-in-ccmp/quantum-computing-and-quantum-many-body-simulation/)
 
+<details>
+  <summary>Description</summary><br>
+You will work on a range of closely connected topics, which, for example, may include:
+ 
+1. Complexity of quantum dynamics, and its quantum simulation. 
+ 
+Study the fundamental computational complexity involved in simulating the time evolution of many-body quantum systems. This includes exploring links with quantum thermalisation, open quantum system dynamics, and the emergence of classical behaviour. We will develop new quantum algorithms for simulating quantum processes more efficiently.
+ 
+2.  Quantum algorithms
+ 
+We will investigate the potential for quantum computers in quantum problems. This includes finding eigenstates of many-body Hamiltonians, simulating quantum dynamics, Hamiltonian learning, quantum thermalisation, and characterising phases of matter. Insights may have implications for quantum error correction, non-Markovian behaviour, quantum memory effects, and noise-resilient quantum computation. 
+ 
+3. New notions of quantum computation
+ 
+We will also explore quantum sensing and spectroscopy from a quantum-computational perspective. This will link concepts from quantum information with physical notions such as correlations functions, response theory and fingerprints of many-body systems. We may think about new notions of quantum computing that is beyond current ‘qubit’ and ‘qumode’ frameworks.
+
+</details>
+
+
+
 **PhD Position 2**: Deadline for application - **28th of January 2026**
 
 Topic: Toward energy-efficient quantum computing, jointly supervised by Jan Mol

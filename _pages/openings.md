@@ -20,7 +20,7 @@ See project description: [link](https://www.qmul.ac.uk/spcs/ccmp/phd-at-ccmp/phd
   <summary>Description</summary><br>
 You will work on a range of closely connected topics, which, for example, may include:
  
-1. Complexity of quantum dynamics, and its quantum simulation. 
+1. Complexity of quantum dynamics, and quantum simulation. 
  
 Study the fundamental computational complexity involved in simulating the time evolution of many-body quantum systems. This includes exploring links with quantum thermalisation, open quantum system dynamics, and the emergence of classical behaviour. We will develop new quantum algorithms for simulating quantum processes more efficiently.
  

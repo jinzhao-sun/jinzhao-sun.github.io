@@ -40,10 +40,10 @@ We will also explore quantum sensing and spectroscopy from a quantum-computation
 
 Topic: Toward energy-efficient quantum computing, jointly supervised by Jan Mol
 
-See project description: [link](https://www.qmul.ac.uk/spcs/ccmp/phd-at-ccmp/phd-projects-in-ccmp/toward-energy-efficient-quantum-computing/)<br>
+See project description: [link](https://www.qmul.ac.uk/spcs/ccmp/phd-at-ccmp/phd-projects-in-ccmp/toward-energy-efficient-quantum-computing/)
 
 
-
+<br>
 To apply for these studentships, please follow the instructions detailed on the following webpage:
 
 https://www.qmul.ac.uk/spcs/phdresearch/application-process/#apply

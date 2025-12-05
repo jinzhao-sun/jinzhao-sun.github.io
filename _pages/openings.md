@@ -10,13 +10,13 @@ We are looking for highly motivated PhD students and Postdoc researchers to join
 
 **Funded PhD positions**
 
-**Position 1**: Deadline for application - **28th of January 2026**
+**PhD Position 1**: Deadline for application - **28th of January 2026**
 
 Quantum computing and quantum many-body simulation.
 
 See project description: [link](https://www.qmul.ac.uk/spcs/ccmp/phd-at-ccmp/phd-projects-in-ccmp/quantum-computing-and-quantum-many-body-simulation/)
 
-**Position 2**: Deadline for application - **28th of January 2026**
+**PhD Position 2**: Deadline for application - **28th of January 2026**
 
 Toward energy-efficient quantum computing, jointly supervised by Jan Mol
 

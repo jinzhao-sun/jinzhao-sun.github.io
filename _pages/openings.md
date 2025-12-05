@@ -49,7 +49,7 @@ https://www.qmul.ac.uk/spcs/phdresearch/application-process/#apply <br><br>
 
 **PhD Position 3**: Deadline for application - **28th of January 2026** 
 
-Topic: Flows and interactions across scales, jointly supervised by Sergey Karabasov at SEMS
+Topic: Flows and interactions across scales, jointly supervised by Sergey Karabasov
 
 See project description (CSC funded): [link](https://www.sems.qmul.ac.uk/research/studentships/699/flows-and-interactions-across-scales)
 

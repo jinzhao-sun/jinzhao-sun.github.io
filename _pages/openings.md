@@ -42,18 +42,20 @@ Topic: Toward energy-efficient quantum computing, jointly supervised by Jan Mol
 
 See project description (EPSRC funded): [link](https://www.qmul.ac.uk/spcs/ccmp/phd-at-ccmp/phd-projects-in-ccmp/toward-energy-efficient-quantum-computing/)<br><br>
 
+<br>
+To apply for the above two studentships, please follow the instructions detailed on the following webpage:
 
-**PhD Position 3**: Deadline for application - **28th of January 2026**
+https://www.qmul.ac.uk/spcs/phdresearch/application-process/#apply <br><br>
+
+
+**PhD Position 3**: Deadline for application - **28th of January 2026** 
 
 Topic: Flows and interactions across scales, jointly supervised by Sergey Karabasov at SEMS
 
 See project description (CSC funded): [link](https://www.sems.qmul.ac.uk/research/studentships/699/flows-and-interactions-across-scales)
 
 
-<br>
-To apply for these studentships, please follow the instructions detailed on the following webpage:
 
-https://www.qmul.ac.uk/spcs/phdresearch/application-process/#apply
 
 
 

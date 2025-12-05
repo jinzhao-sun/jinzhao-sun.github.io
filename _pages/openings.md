@@ -33,7 +33,7 @@ We will investigate the potential for quantum computers in quantum problems. Thi
 We will also explore quantum sensing and spectroscopy from a quantum-computational perspective. This will link concepts from quantum information with physical notions such as correlations functions, response theory and fingerprints of many-body systems. We may think about new notions of quantum computing that is beyond current ‘qubit’ and ‘qumode’ frameworks.
 
 </details>
-
+<br>
 
 
 **PhD Position 2**: Deadline for application - **28th of January 2026**

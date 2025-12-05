@@ -18,14 +18,15 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   *  Quantum simulation of molecules and materials
   *  Addressing the challenges with near-term quantum devices
 * Open quantum dynamics and non-Markovianity 
-* Quantum error mitigation, error correction, and their intermediate forms
+* Quantum error correction and error mitigation
 * Quantum computational chemistry
 * Quantum many-body physics, e.g., high-temperature superconductivity, magnetism and topology
 * Foundations in quantum physics and quantum information
   
 Find some interesting research topics and descriptions of my selected research works under **[Research](research.md)**. 
 
-**Openings**: Feel free to reach out to me if you are interested in joining our group as a **PhD** or **Postdoc**, see **[Openings](openings.md)**.
+**Openings**: There are **two funded PhD positions**. 
+Feel free to reach out to me if you are interested in joining our group as a **PhD** or **Postdoc**, see **[Openings](openings.md)**.
 
 **Thesis**:
 Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy ([link](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d))

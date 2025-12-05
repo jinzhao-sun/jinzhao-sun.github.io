@@ -40,7 +40,7 @@ We will also explore quantum sensing and spectroscopy from a quantum-computation
 
 Topic: Toward energy-efficient quantum computing, jointly supervised by Jan Mol
 
-See project description (EPSRC funded): [link](https://www.qmul.ac.uk/spcs/ccmp/phd-at-ccmp/phd-projects-in-ccmp/toward-energy-efficient-quantum-computing/)<br>
+See project description (EPSRC funded): [link](https://www.qmul.ac.uk/spcs/ccmp/phd-at-ccmp/phd-projects-in-ccmp/toward-energy-efficient-quantum-computing/)<br><br>
 
 
 **PhD Position 3**: Deadline for application - **28th of January 2026**

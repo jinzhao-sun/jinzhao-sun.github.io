@@ -49,7 +49,7 @@ To apply for the above two studentships, please follow the instructions detailed
 
 Topic: Flows and interactions across scales, jointly supervised by Sergey Karabasov
 
-See project description (CSC funded): [link](https://www.sems.qmul.ac.uk/research/studentships/699/flows-and-interactions-across-scales)
+See project description (CSC funded). QMUL will cover the international tuition fee. [link](https://www.sems.qmul.ac.uk/research/studentships/699/flows-and-interactions-across-scales)
 
 Please contact me before the application.
 

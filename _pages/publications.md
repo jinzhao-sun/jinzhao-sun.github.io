@@ -18,13 +18,13 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- **A Herculean task: Classical simulation of quantum computers**  †<br> 
+  X Xu, S Benjamin, J Chen, **J Sun**, X Yuan, P Zhang  
+  *Science Bulletin (2025)* | *arXiv preprint arXiv:2302.08880* | 2023-02-17 ([link](https://doi.org/10.1016/j.scib.2025.10.016))
+  
 - **Direct probing of the simulation complexity of open quantum many-body dynamics** †<br>
   L Vilchez-Estevez, A Yosifov,  **J Sun**<br>
   *arXiv preprint arXiv:2508.19959v1*
-
-- **A Herculean task: Classical simulation of quantum computers**  †<br> 
-  X Xu, S Benjamin, J Chen, **J Sun**, X Yuan, P Zhang  
-  *Science Bulletin (2025)* | *arXiv preprint arXiv:2302.08880* | 2023-02-17 ([link](https://doi.org/10.1016/j.scib.2025.10.016))  
 
 - **Quantum computing quantum Monte Carlo algorithm** †<br>
   Y Zhang, Y Huang, **J Sun**, D Lv, X Yuan  

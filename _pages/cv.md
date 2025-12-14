@@ -34,5 +34,5 @@ conferences including
 
 Quantum Information Processing (QIP), Theory of Quantum Computation, Communication and Cryptography (TQC), Asian Quantum Information Science (AQIS), etc;
 
-and funding bodies such as the Swiss National Science Foundation.
+and funding bodies such as UKRI, the Swiss National Science Foundation, and the Royal Academy of Engineering.
  

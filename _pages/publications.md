@@ -98,9 +98,9 @@ Find descriptions of my research works under **[Research](research.md)**.
   C Cao, **J Sun**, X Yuan, HS Hu, HQ Pham, D Lv  
   *npj Computational Materials 9 (1), 78* | 2023-06-15
 
-- **A Herculean task: Classical simulation of quantum computers**  
-  X Xu, S Benjamin, **J Sun**, X Yuan, P Zhang  
-  *arXiv preprint arXiv:2302.08880* | 2023-02-17
+- **A Herculean task: Classical simulation of quantum computers**  †<br> 
+  X Xu, S Benjamin, J Chen, **J Sun**, X Yuan, P Zhang  
+  *Science Bulletin (2025)* | *arXiv preprint arXiv:2302.08880* | 2023-02-17
 
 - 🔹**Low-depth Hamiltonian simulation by an adaptive product formula** †<br> 
   ZJ Zhang\*, **J Sun**\*, X Yuan, MH Yung  

@@ -1,4 +1,4 @@
----
+<img width="432" height="33" alt="image" src="https://github.com/user-attachments/assets/8c3c060c-b7c7-483b-ae0b-2b881776f9b3" />---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -11,6 +11,8 @@ author_profile: false
 {% endif %}
 
 Find descriptions of my research works under **[Research](research.md)**. 
+
+
 
 🔹 Selected papers
 

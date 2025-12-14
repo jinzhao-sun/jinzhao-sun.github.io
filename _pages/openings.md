@@ -17,7 +17,7 @@ Topic: Quantum computing and quantum many-body simulation.
 See project description: [link](https://www.qmul.ac.uk/spcs/ccmp/phd-at-ccmp/phd-projects-in-ccmp/quantum-computing-and-quantum-many-body-simulation/)
 
 <details>
-  <summary>Description</summary><br>
+  <summary>Description here</summary><br>
 You will work on a range of closely connected topics, which, for example, may include:
  
 1. Complexity of quantum dynamics, and quantum simulation. 
@@ -49,7 +49,10 @@ To apply for the above two studentships, please follow the instructions detailed
 
 Topic: Flows and interactions across scales, jointly supervised by Sergey Karabasov
 
-See project description (CSC funded). QMUL will cover the international tuition fee. [link](https://www.sems.qmul.ac.uk/research/studentships/699/flows-and-interactions-across-scales)
+See project description (CSC funded). QMUL will cover the international tuition fee.
+[link](https://www.sems.qmul.ac.uk/research/studentships/699/flows-and-interactions-across-scales)
+
+Please quote the corresponding reference for different positions.
 
 Please contact me before the application.
 

@@ -1,4 +1,4 @@
-<img width="432" height="33" alt="image" src="https://github.com/user-attachments/assets/8c3c060c-b7c7-483b-ae0b-2b881776f9b3" />---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/

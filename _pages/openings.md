@@ -52,7 +52,7 @@ Topic: Flows and interactions across scales, jointly supervised by Sergey Karaba
 See project description (CSC funded). QMUL will cover the international tuition fee.
 [link](https://www.sems.qmul.ac.uk/research/studentships/699/flows-and-interactions-across-scales)
 
-Please quote the corresponding reference for different positions.
+Please **quote the corresponding reference** for different positions.
 
 Please contact me before the application.
 

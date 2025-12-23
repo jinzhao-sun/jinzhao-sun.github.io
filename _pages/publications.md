@@ -20,6 +20,10 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- 🔹**High-precision and low-depth quantum algorithm design for eigenstate problems** †<br> 
+  **J Sun**, P Zeng, T Gur, MS Kim  
+   *Science Advacnes* in press | *arXiv preprint arXiv:2406.04307* | 2024-06-06
+  
 - **A Herculean task: Classical simulation of quantum computers**  †<br> 
   X Xu, S Benjamin, J Chen, **J Sun**, X Yuan, P Zhang  
   *Science Bulletin (2025)* | *arXiv preprint arXiv:2302.08880* | 2023-02-17 ([link](https://doi.org/10.1016/j.scib.2025.10.016))
@@ -79,10 +83,6 @@ Find descriptions of my research works under **[Research](research.md)**.
 - 🔹**Purification and correction of quantum channels by commutation-derived quantum filters** †<br> 
   S Das, **J Sun**, M Hanks, B Koczor, MS Kim  
   *arXiv preprint arXiv:2407.20173* | 2024-07-24
-
-- 🔹**High-precision and low-depth eigenstate property estimations** †<br> 
-  **J Sun**, P Zeng, T Gur, MS Kim  
-  *arXiv preprint arXiv:2406.04307* | 2024-06-06
 
 - **Weyl metallic state induced by helical magnetic order**  
   JR Soh, I Sánchez-Ramírez, X Yang, **J Sun**, I Zivkovic, ..., AT Boothroyd  

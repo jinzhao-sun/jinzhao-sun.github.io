@@ -22,7 +22,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 - 🔹**High-precision and low-depth quantum algorithm design for eigenstate problems** †<br> 
   **J Sun**, P Zeng, T Gur, MS Kim  
-   *Science Advacnes* in press | *arXiv preprint arXiv:2406.04307* | 2024-06-06
+   *Science Advances* in press | *arXiv preprint arXiv:2406.04307* | 2024-06-06
   
 - **A Herculean task: Classical simulation of quantum computers**  †<br> 
   X Xu, S Benjamin, J Chen, **J Sun**, X Yuan, P Zhang  

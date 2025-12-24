@@ -54,7 +54,7 @@ See project description (CSC funded). QMUL will cover the international tuition 
 
 Please **quote the corresponding reference** for different positions.
 
-Please contact me before the application.
+Feel free to reach out to me for informal discussions.
 
 
 

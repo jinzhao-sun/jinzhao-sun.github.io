@@ -26,7 +26,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 - **QAISim: A Toolkit for Modeling and Simulation of AI in Quantum Cloud Computing Environments** <br>
   I Singh, S Gill, J Sun, J Mol <br>
-  *Cluster Computing (2026)* | arXiv:2512.17918
+  *Cluster Computing Springer (2026)* | arXiv:2512.17918
   
   
 - **A Herculean task: Classical simulation of quantum computers**  †<br> 

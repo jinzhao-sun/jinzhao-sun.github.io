@@ -25,7 +25,7 @@ Find descriptions of my research works under **[Research](research.md)**.
   *Science Advances* in press | *arXiv preprint arXiv:2406.04307* | 2024-06-06
 
 - **QAISim: A Toolkit for Modeling and Simulation of AI in Quantum Cloud Computing Environments** <br>
-  I Singh, S Gill, J Sun, J Mol
+  I Singh, S Gill, J Sun, J Mol <br>
   *Cluster Computing (2026)* | arXiv:2512.17918
   
   

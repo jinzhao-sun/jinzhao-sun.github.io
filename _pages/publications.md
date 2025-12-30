@@ -21,7 +21,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 ⭑ Co-first Author
 
 - **Gauge Symmetry in Quantum Simulation** †<br>
-  Masanori Hanada, S Matsuura, A Schafer, **J Sun**
+  Masanori Hanada, S Matsuura, A Schafer, **J Sun**<br>
   *arXiv preprint arXiv:2512.22932*
 
 - 🔹**High-precision and low-depth quantum algorithm design for eigenstate problems** †<br> 

@@ -5,7 +5,7 @@ permalink: /openings/
 author_profile: false
 ---
 
-We are looking for highly motivated PhD students and Postdoc researchers to join or visit our group. We would work together to advance the frontiers of quantum computing, quantum information, and quantum simulation. 
+We are looking for highly motivated PhD students and Postdoc researchers to join or visit our group at either QMUL or University of Oxford. We would work together to advance the frontiers of quantum computing, quantum information, and quantum simulation. 
 
 
 **Funded PhD positions**

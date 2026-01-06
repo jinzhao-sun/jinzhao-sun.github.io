@@ -21,7 +21,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
 * Quantum error correction and error mitigation
 * Quantum computational chemistry
 * Quantum many-body physics, e.g., high-temperature superconductivity, magnetism and topology
-* Foundations in quantum physics and quantum information
+* Foundations in quantum information
   
 Find some interesting research topics and descriptions of my selected research works under **[Research](research.md)**. 
 

@@ -20,9 +20,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
-- **Gauge Symmetry in Quantum Simulation** †<br>
-  Masanori Hanada, S Matsuura, A Schafer, **J Sun**<br>
-  *arXiv preprint arXiv:2512.22932*
+
 
 - 🔹**High-precision and low-depth quantum algorithm design for eigenstate problems** †<br> 
   **J Sun**, P Zeng, T Gur, MS Kim  
@@ -31,7 +29,10 @@ Find descriptions of my research works under **[Research](research.md)**.
 - **QAISim: A Toolkit for Modeling and Simulation of AI in Quantum Cloud Computing Environments** <br>
   I Singh, S Gill, **J Sun**, J Mol <br>
   *Cluster Computing 29 (2), 99 (2026)* | arXiv:2512.17918 ([link](https://link.springer.com/article/10.1007/s10586-025-05879-9))
-  
+
+- **Gauge Symmetry in Quantum Simulation** †<br>
+  Masanori Hanada, S Matsuura, A Schafer, **J Sun**<br>
+  *arXiv preprint arXiv:2512.22932*
   
 - **A Herculean task: Classical simulation of quantum computers**  †<br> 
   X Xu, S Benjamin, J Chen, **J Sun**, X Yuan, P Zhang  

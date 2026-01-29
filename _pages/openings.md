@@ -10,7 +10,7 @@ We are looking for highly motivated PhD students and Postdoc researchers to join
 
 **Funded PhD positions**
 
-**PhD Position 1**: Deadline for application - **28th of January 2026**
+**PhD Position 1**: Deadline for application  
 
 Topic: Quantum computing and quantum many-body simulation.
 
@@ -36,7 +36,7 @@ We will also explore quantum sensing and spectroscopy from a quantum-computation
 <br>
 
 
-**PhD Position 2**: Deadline for application - **28th of January 2026**
+**PhD Position 2**: Deadline for application  
 
 Topic: Toward energy-efficient quantum computing, jointly supervised by Jan Mol
 
@@ -44,18 +44,7 @@ See project description (EPSRC funded, home students only): [link](https://www.q
 
 To apply for the above two studentships, please follow the instructions detailed on this [Webpage](https://www.qmul.ac.uk/spcs/phdresearch/application-process/#apply). **Please quote Jan Mol's name in the application to be considered for the second position.**
 <br><br>
-
-**PhD Position 3**: Deadline for application - **28th of January 2026** 
-
-Topic: Flows and interactions across scales, jointly supervised by Sergey Karabasov
-
-See project description (CSC funded). QMUL will cover the international tuition fee.
-[link](https://www.sems.qmul.ac.uk/research/studentships/699/flows-and-interactions-across-scales)
-
-Please **quote the corresponding reference** for different positions.
-
-Feel free to reach out to me for informal discussions.
-
+ 
 
 
 

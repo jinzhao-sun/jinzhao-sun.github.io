@@ -25,7 +25,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   
 Find some interesting research topics and descriptions of my selected research works under **[Research](research.md)**. 
 
-**Openings**: There are **several funded PhD positions available (Deadline: 28th of January 2026)**. 
+**Openings**: There are **several funded PhD positions available**. 
 
 Feel free to reach out to me if you are interested in joining our group as a **PhD** or **Postdoc**, see **[Openings](openings.md)**.
 

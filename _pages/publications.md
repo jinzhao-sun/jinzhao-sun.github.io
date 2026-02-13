@@ -23,7 +23,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 
 - **Extensible universal photonic quantum computing with nonlinearity** †<br>
-  S Yu\*, **J Sun\***, K-C Chen\*, Z-H Yang, Z Li, E Mer, Y K Alwehaibi, S H Winston, D M D Lopena, Z-C Zhang, G Yang, R Tao, M Zhou, G J Machado, Y Dong, R Bondesan, V Vedral, M S Kim, I A Walmsley, R B Patel
+  S Yu\*, **J Sun\***, K-C Chen\*, Z-H Yang, Z Li, E Mer, Y K Alwehaibi, S H Winston, D M D Lopena, Z-C Zhang, G Yang, R Tao, M Zhou, G J Machado, Y Dong, R Bondesan, V Vedral, M S Kim, I A Walmsley, R B Patel <br>
   *arXiv preprint arXiv:2602.06544*
 
 - 🔹**High-precision and low-depth quantum algorithm design for eigenstate problems** †<br> 

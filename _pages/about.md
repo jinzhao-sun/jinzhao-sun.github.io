@@ -25,9 +25,12 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   
 Find some interesting research topics and descriptions of my selected research works under **[Research](research.md)**. 
 
-**Openings**: There are **several funded PhD positions available**. 
+**Openings**: There are **several funded PhD positions available**.
 
-Feel free to reach out to me if you are interested in joining our group as a **PhD** or **Postdoc**, see **[Openings](openings.md)**.
+Feel free to reach out to me if you are interested in joining our group as a **PhD** or **Postdoc**, see latest information at **[Openings](openings.md)**.
+
+**QuantHEP 2026 Conference hosted at QMUL**: The deadline for Talk abstract submissions is April 15th, 2026 [Link](https://indico.global/event/16939/)
+
 
 **Thesis**:
 Exploring quantum many-body systems from the viewpoints of quantum computing and spectroscopy ([link](https://ora.ox.ac.uk/objects/uuid:de5499cb-9c49-4be3-acc1-5be4cb81099d))

@@ -23,6 +23,7 @@ My research interest generally lies in the development of quantum algorithms for
 
 
 **Alexander Yosifov**<br>
+
 <img src="/images/Alexander.jpg" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;"> 
 
 <details>
@@ -34,6 +35,7 @@ Previously, I was a Researcher at the Hong Kong Research Center of Huawei, where
 
 
 **Wenzheng Dong**<br>
+
 <img src="/images/Wenzheng.png" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;"> 
 
 Wenzheng is a researcher specializing in quantum information science, with a focus on open quantum systems, quantum control, and noise correction techniques for quantum computing. Outside of his research, he enjoys running to find peace of mind.

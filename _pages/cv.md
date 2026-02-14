@@ -26,6 +26,11 @@ for "exceptional performance and going above and beyond the requirements of the 
 
 Service
 -----
+
+**Editorial Board**: Associate Editor of npj Quantum Information
+
+**Programme Committee**: QuantHEP 2026 hosted at QMUL
+
 I am a referee for journals including
 
 Nature, Nature Physics, Nature Communications, npj Quantum Information, Physical Review (PR) journals (Physical Review Letters, PRX Quantum, PR Research, PR Applied, PRA, PRB, PRE), Quantum, Scientific Reports, Entropy, Algorithms, Applied Science, etc; 
@@ -34,5 +39,5 @@ conferences including
 
 Quantum Information Processing (QIP), Theory of Quantum Computation, Communication and Cryptography (TQC), Asian Quantum Information Science (AQIS), etc;
 
-and funding bodies such as UKRI, the Swiss National Science Foundation, and the Royal Academy of Engineering.
+and funding bodies such as UKRI, the Swiss National Science Foundation, and UK Royal Academy of Engineering.
  

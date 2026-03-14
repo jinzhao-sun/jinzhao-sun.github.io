@@ -21,7 +21,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 ⭑ Co-first Author
 
 - **Hysteretic squashed entanglement in many-body quantum systems** †<br>
-  S Das, A Yosifov, **J Sun**
+  S Das\*, A Yosifov\*, **J Sun**  <br>
   *arXiv preprint arXiv:2603.09907*
 
 - **Extensible universal photonic quantum computing with nonlinearity** †<br>

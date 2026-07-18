@@ -29,8 +29,8 @@ Find descriptions of my research works under **[Research](research.md)**.
   *arXiv preprint arXiv:2607.11856*
  
 - **Generalised quantum computational spectroscopy on a quantum chip** †<br>
-  C Zhai\*, **J Sun**\*, J Huang, J Mao, H Bao, S Zhang, Q Gong, V Vedral, X Yuan, JW Wang<br>
-  *Nature Communcations (2026) | arXiv preprint arXiv:2506.22418*
+  C Zhai\*, **J Sun**\*, J Huang, J Mao, H Bao, S Zhang, V Vedral, X Yuan, JW Wang<br>
+  *Nature Communcations (2026) | arXiv preprint arXiv:2506.22418* | ([link](https://www.nature.com/articles/s41467-026-74936-7))
 
 - **Hysteretic squashed entanglement in many-body quantum systems** †<br>
   S Das\*, A Yosifov\*, **J Sun**  <br>

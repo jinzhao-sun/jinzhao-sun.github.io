@@ -22,7 +22,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 - **Quantum probe advantage in learning many-body systems** †<br>
   W Dong, AG Green, V Vedral, J Sun<br>
-  arXiv preprint arXiv:2607.11829
+  *arXiv preprint arXiv:2607.11829*
   
 - **Trotter error compensation with polylogarithmic precision and nested-commutator scaling without ancillass** <br>
   X Wang, S Zhou, Z Wang, P Zeng, J Sun, Q Zhao, T Gur, T Li <br>

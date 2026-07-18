@@ -25,7 +25,7 @@ Find descriptions of my research works under **[Research](research.md)**.
   arXiv preprint arXiv:2607.11829
   
 - **Trotter error compensation with polylogarithmic precision and nested-commutator scaling without ancillass**
-  X Wang, S Zhou, Z Wang, P Zeng, J Sun, Q Zhao, T Gur, T Li<br>
+  X Wang, S Zhou, Z Wang, P Zeng, J Sun, Q Zhao, T Gur, T Li <br>
   *arXiv preprint arXiv:2607.11856*
  
 - **Generalised quantum computational spectroscopy on a quantum chip** †<br>

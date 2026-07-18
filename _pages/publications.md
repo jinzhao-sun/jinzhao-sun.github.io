@@ -21,15 +21,15 @@ Find descriptions of my research works under **[Research](research.md)**.
 ⭑ Co-first Author
 
 - **Quantum-classical crossover in fault-tolerant quantum dynamics simulation** <br>
-  J Sun*, B Zhou*, J Xu*, Y Yao*, Z Du*, Z Zhang*, Y Gu*, J Huang, S Zhou, Z Wang, A Yosifov, W Dong, Y Huang, D Serrano, X Wang, T Feng, S Sadugol, W Yu, ..., A Iyer, Y Zhou, T Li, Y Li, X Ma, Q Zhao, P Zeng, P Zhang, X Yuan<br>
+  **J Sun**\*, B Zhou*, J Xu*, Y Yao*, Z Du*, Z Zhang*, Y Gu*, J Huang, S Zhou, Z Wang, A Yosifov, W Dong, Y Huang, D Serrano, X Wang, T Feng, S Sadugol, W Yu, ..., A Iyer, Y Zhou, T Li, Y Li, X Ma, Q Zhao, P Zeng, P Zhang, X Yuan<br>
   
 
 - **Quantum probe advantage in learning many-body systems** †<br>
-  W Dong, AG Green, V Vedral, J Sun<br>
+  W Dong, AG Green, V Vedral, **J Sun**<br>
   *arXiv preprint arXiv:2607.11829*
   
 - **Trotter error compensation with polylogarithmic precision and nested-commutator scaling without ancillass** <br>
-  X Wang, S Zhou, Z Wang, P Zeng, J Sun, Q Zhao, T Gur, T Li <br>
+  X Wang, S Zhou, Z Wang, P Zeng, **J Sun**, Q Zhao, T Gur, T Li <br>
   *arXiv preprint arXiv:2607.11856*
  
 - **Generalised quantum computational spectroscopy on a quantum chip** †<br>

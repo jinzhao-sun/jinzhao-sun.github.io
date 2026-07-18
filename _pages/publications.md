@@ -20,6 +20,18 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- **Quantum probe advantage in learning many-body systems** †<br>
+  W Dong, AG Green, V Vedral, J Sun
+  arXiv preprint arXiv:2607.11829
+  
+- **Trotter error compensation with polylogarithmic precision and nested-commutator scaling without ancillass**
+  X Wang, S Zhou, Z Wang, P Zeng, J Sun, Q Zhao, T Gur, T Li
+  *arXiv preprint arXiv:2607.11856*
+ 
+- **Generalised quantum computational spectroscopy on a quantum chip** †<br>
+  C Zhai\*, **J Sun**\*, J Huang, J Mao, H Bao, S Zhang, Q Gong, V Vedral, X Yuan, JW Wang<br>
+  *Nature Communcations (2026) | arXiv preprint arXiv:2506.22418*
+
 - **Hysteretic squashed entanglement in many-body quantum systems** †<br>
   S Das\*, A Yosifov\*, **J Sun**  <br>
   *arXiv preprint arXiv:2603.09907*

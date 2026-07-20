@@ -22,7 +22,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 - **Quantum-classical crossover in fault-tolerant quantum dynamics simulation** <br>
   **J Sun**\*, B Zhou*, J Xu*, Y Yao*, Z Du*, Z Zhang*, Y Gu*, J Huang, S Zhou, Z Wang, A Yosifov, W Dong, Y Huang, D Serrano, X Wang, T Feng, S Sadugol, W Yu, Z You, D Qin, X-M Zhang, Y Wu, A Iyer, Y Zhou, T Li, Y Li, X Ma, Q Zhao, P Zeng, P Zhang, X Yuan<br>
-  
+   *arXiv preprint arXiv:2607.16116*
 
 - **Quantum probe advantage in learning many-body systems** †<br>
   W Dong, AG Green, V Vedral, **J Sun**<br>

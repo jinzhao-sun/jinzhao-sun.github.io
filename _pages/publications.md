@@ -20,6 +20,10 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- **Extensible universal photonic quantum computing with nonlinearity** †<br>
+  S Yu\*, **J Sun\***, K-C Chen\*, Z-H Yang, Z Li, E Mer, Y K Alwehaibi, S H Winston, D M D Lopena, Z-C Zhang, G Yang, R Tao, M Zhou, G J Machado, Y Dong, R Bondesan, V Vedral, M S Kim, I A Walmsley, R B Patel <br>
+  *Nature Photonics (2026)* | *arXiv preprint arXiv:2602.06544*  ([link](https://www.nature.com/articles/s41566-026-01962-8))
+  
 - **Quantum-classical crossover in fault-tolerant quantum dynamics simulation** <br>
   **J Sun**\*, B Zhou*, J Xu*, Y Yao*, Z Du*, Z Zhang*, Y Gu*, J Huang, S Zhou, Z Wang, A Yosifov, W Dong, Y Huang, D Serrano, X Wang, T Feng, S Sadugol, W Yu, Z You, D Qin, X-M Zhang, Y Wu, A Iyer, Y Zhou, T Li, Y Li, X Ma, Q Zhao, P Zeng, P Zhang, X Yuan<br>
    *arXiv preprint arXiv:2607.16116*
@@ -39,10 +43,6 @@ Find descriptions of my research works under **[Research](research.md)**.
 - **Hysteretic squashed entanglement in many-body quantum systems** †<br>
   S Das\*, A Yosifov\*, **J Sun**  <br>
   *arXiv preprint arXiv:2603.09907*
-
-- **Extensible universal photonic quantum computing with nonlinearity** †<br>
-  S Yu\*, **J Sun\***, K-C Chen\*, Z-H Yang, Z Li, E Mer, Y K Alwehaibi, S H Winston, D M D Lopena, Z-C Zhang, G Yang, R Tao, M Zhou, G J Machado, Y Dong, R Bondesan, V Vedral, M S Kim, I A Walmsley, R B Patel <br>
-  *Nature Photonics (2026)* | *arXiv preprint arXiv:2602.06544*  ([link](https://www.nature.com/articles/s41566-026-01962-8))
 
 - 🔹**High-precision and low-depth quantum algorithm design for eigenstate problems** †<br> 
   **J Sun**, P Zeng, T Gur, MS Kim  

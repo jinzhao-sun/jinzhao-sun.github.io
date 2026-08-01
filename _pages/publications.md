@@ -25,7 +25,8 @@ Find descriptions of my research works under **[Research](research.md)**.
   *Nature Photonics (2026)* | *arXiv preprint arXiv:2602.06544*  ([link](https://www.nature.com/articles/s41566-026-01962-8))
   
 - **Quantum-classical crossover in fault-tolerant quantum dynamics simulation** <br>
-  **J Sun**\*, B Zhou*, J Xu*, Y Yao*, Z Du*, Z Zhang*, Y Gu*, J Huang, S Zhou, Z Wang, A Yosifov, W Dong, Y Huang, D Serrano, X Wang, T Feng, S Sadugol, ... <br>
+  **J Sun**\*, B Zhou*, J Xu*, Y Yao*, Z Du*, Z Zhang*, Y Gu*, J Huang, S Zhou, Z Wang, A Yosifov, W Dong, Y Huang, D Serrano, X Wang, T Feng, S Sadugol, ...
+  <br>
    *arXiv preprint arXiv:2607.16116*
 
 - **Quantum probe advantage in learning many-body systems** †<br>

@@ -24,12 +24,12 @@ Find descriptions of my research works under **[Research](research.md)**.
   S Yu\*, **J Sun\***, K-C Chen\*, Z-H Yang, Z Li, E Mer, Y K Alwehaibi, S H Winston, D M D Lopena, Z-C Zhang, G Yang, R Tao, M Zhou, G J Machado, Y Dong, R Bondesan, V Vedral, M S Kim, I A Walmsley, R B Patel <br>
   *Nature Photonics (2026)* | *arXiv preprint arXiv:2602.06544*  ([link](https://www.nature.com/articles/s41566-026-01962-8))
   
-- **Quantum-classical crossover in fault-tolerant quantum dynamics simulation** <br>
+- 🔹 **Quantum-classical crossover in fault-tolerant quantum dynamics simulation** <br>
   **J Sun**\*, B Zhou*, J Xu*, Y Yao*, Z Du*, Z Zhang*, Y Gu*, J Huang, S Zhou, Z Wang, A Yosifov, W Dong, Y Huang, D Serrano, X Wang, T Feng, S Sadugol, ...
   <br>
    *arXiv preprint arXiv:2607.16116*
 
-- **Quantum probe advantage in learning many-body systems** †<br>
+- 🔹 **Quantum probe advantage in learning many-body systems** †<br>
   W Dong, AG Green, V Vedral, **J Sun**<br>
   *arXiv preprint arXiv:2607.11829*
   

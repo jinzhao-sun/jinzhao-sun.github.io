@@ -22,8 +22,8 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 
 - **Distributed Trotterization with optimal time-scaling entanglement cost** †<br>
-  T Feng, J Sun, Y.L. Xiao, Q Zhao
-  arXiv:2608.25896<br>
+  T Feng, J Sun, Y.L. Xiao, Q Zhao <br>
+  arXiv preprint arXiv:2608.25896<br>
 
 - 
 - **Extensible universal photonic quantum computing with nonlinearity** †<br>

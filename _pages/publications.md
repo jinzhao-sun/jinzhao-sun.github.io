@@ -20,9 +20,12 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- **Low-cost algorithm-to-execution framework for surface-code quantum computing** <br>
+  Y Tang, Z Huo, J Huang, Z You, Z Wang, Z Ding, Y Zeng, Y Lu, Y Huang, ..., Y Li, **J Sun**, X Yuan, Y Yao<br>
+  arXiv preprint arXiv:2609.10965<br>
 
 - **Distributed Trotterization with optimal time-scaling entanglement cost** †<br>
-  T Feng, J Sun, Y.L. Xiao, Q Zhao <br>
+  T Feng, **J Sun**, Y.L. Xiao, Q Zhao <br>
   arXiv preprint arXiv:2608.25896<br>
 
 - **Extensible universal photonic quantum computing with nonlinearity** †<br>

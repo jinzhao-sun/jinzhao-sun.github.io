@@ -27,9 +27,7 @@ I have a broad interest in quantum computing, quantum information, and quantum m
   
 Find some interesting research topics and descriptions of my selected research works under **[Research](research.md)**. 
 
-**Openings**: Feel free to reach out to me if you are interested in visiting or joining our group, see latest information at **[Openings](openings.md)**.
-
-**QuantHEP 2026 Conference hosted at QMUL**: The deadline for Talk abstract submissions is April 15th, 2026 [Link](https://indico.global/event/16939/)
+**Openings**: Feel free to reach out to me if you are interested in visiting or joining our group, see the latest information at **[Openings](openings.md)**.
 
 
 **Thesis**:

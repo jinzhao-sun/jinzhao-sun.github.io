@@ -24,7 +24,7 @@ Find descriptions of my research works under **[Research](research.md)**.
   C Liu, A Yosifov, X Wang, Z Liu, J. Sun<br>
   arXiv:2609.40281
   
-- **Can Chemically Inspired Parameter Initialization Mitigate Barren Plateaus in Variational Quantum Eigensolvers?** <br>
+- **Can chemically inspired parameter initialization mitigate barren plateaus in variational quantum eigensolvers?** <br>
   Z Yang, J. Sun, J Chen, W Li, Z Shuai<br>
   arXiv:2609.22729<br>
 

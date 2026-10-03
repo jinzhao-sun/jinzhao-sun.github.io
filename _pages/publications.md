@@ -20,6 +20,15 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- **Memory dimension detection in open quantum dynamics via pseudo-control** <br>
+  C Liu, A Yosifov, X Wang, Z Liu, J. Sun<br>
+  arXiv:2609.40281
+  
+- **Can Chemically Inspired Parameter Initialization Mitigate Barren Plateaus in Variational Quantum Eigensolvers?**
+  Z Yang, J. Sun, J Chen, W Li, Z Shuai<br>
+  arXiv:2609.22729<br>
+
+
 - **Low-cost algorithm-to-execution framework for surface-code quantum computing** <br>
   Y Tang, Z Huo, J Huang, Z You, Z Wang, Z Ding, Y Zeng, Y Lu, Y Huang, ..., Y Li, **J Sun**, X Yuan, Y Yao<br>
   arXiv preprint arXiv:2609.10965<br>

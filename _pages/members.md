@@ -28,6 +28,15 @@ My research interest generally lies in the development of quantum algorithms for
 
 **PhD student**<br>
 
+
+**Zepeng Zhong**<br>
+
+<!-- <img src="/images/Shitaro.png" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;">  -->
+Co-supervision with Lei Su,  School of Engineering and Materials Science (SEMS) <br>
+
+
+**PhD student**<br>
+
  
 
 

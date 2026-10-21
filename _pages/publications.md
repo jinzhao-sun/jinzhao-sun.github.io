@@ -20,6 +20,11 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- **Low-overhead tailoring and learning of noise in graph states** †<br>
+  G Park,  **J Sun**, H Jeong  <br>
+  *Physical Review A 114 (4), 042428 (2026)* | *arXiv preprint arXiv:2503.12870*
+
+
 - **Memory dimension detection in open quantum dynamics via pseudo-control** †<br>
   C Liu, A Yosifov, X Wang, Z Liu, **J Sun** <br>
   arXiv:2609.40281
@@ -106,9 +111,6 @@ Find descriptions of my research works under **[Research](research.md)**.
   Y Zhang, X Zhang, **J Sun**, H Lin, Y Huang, D Lv, X Yuan  
   *Wiley Interdisciplinary Reviews: Computational Molecular Science 2025*  
   
-- **Efficient noise tailoring and detection of hypergraph states using Clifford circuits** †<br>
-  G Park, **J Sun**, H Jeong  
-  *arXiv preprint arXiv:2503.12870* | 2025-03-28
 
 - 🔹**Simple and high-precision Hamiltonian simulation by compensating Trotter error with linear combination of unitary operations** †<br> 
   P Zeng, **J Sun**, L Jiang, Q Zhao  

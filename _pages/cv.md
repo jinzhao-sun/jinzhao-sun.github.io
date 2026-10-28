@@ -15,7 +15,7 @@ I am very fortunate to be supervised by Vlatko Vedral and Andrew Boothroyd and g
 
 Selected Awards and Fellowships
 -----
-* Fellowship of the Higher Education Academy
+* Fellowship of the Higher Education Academy, UK national teaching recognition
 * Awards for Excellence, University of Oxford
 for "exceptional performance and going above and beyond the requirements of the role"
 * Oxford Schmidt AI Fellowship

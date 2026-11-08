@@ -23,7 +23,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 Disorder-blind Mpemba acceleration of quantum state preparation
 
 - **Disorder-blind Mpemba acceleration of quantum state preparation** †<br>
-  M Nishanth, S Sadugol, P Mahmoudi, A Yosifov, A Iyer, R Ghosh,  **J Sun**
+  M Nishanth, S Sadugol, P Mahmoudi, A Yosifov, A Iyer, R Ghosh,  **J Sun**<br>
   *arXiv preprint arXiv:2610.37589*
 
 

@@ -23,10 +23,12 @@ My research interest generally lies in the development of quantum algorithms for
 
 **Kenneth Lee**<br>
 
-<!-- <img src="/images/Shitaro.png" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;">  -->
+<!-- <img src="/images/kenneth.png" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;">  -->
 
 
 **PhD student**<br>
+
+My research focuses on quantum computation as a perspective to understand and simulate many-body systems. I am especially interested in developing quantum information-theoretic techniques that can be applied across domains. Outside of research, I am a keen musician and pianist currently exploring jazz, and often ponder big questions through films, books, and long walks.
 
 
 **Zepeng Zhong**<br>

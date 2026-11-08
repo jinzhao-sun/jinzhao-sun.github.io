@@ -23,7 +23,7 @@ My research interest generally lies in the development of quantum algorithms for
 
 **Kenneth Lee**<br>
 
-<!-- <img src="/images/kenneth.png" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;">  -->
+<!-- <img src="/images/kenneth.jpeg" alt="Description" style="border-radius: 1px; box-shadow: 0 0px 1px rgba(0, 0, 0, 0.02); border: 0px solid #ccc; width: 175px;">  -->
 
 
 **PhD student**<br>

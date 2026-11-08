@@ -20,6 +20,13 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+Disorder-blind Mpemba acceleration of quantum state preparation
+
+- **Disorder-blind Mpemba acceleration of quantum state preparation** †<br>
+  M Nishanth, S Sadugol, P Mahmoudi, A Yosifov, A Iyer, R Ghosh,  **J Sun**
+  *arXiv preprint arXiv:2610.37589*
+
+
 - **Low-overhead tailoring and learning of noise in graph states** †<br>
   G Park,  **J Sun**, H Jeong  <br>
   *Physical Review A 114 (4), 042428 (2026)* | *arXiv preprint arXiv:2503.12870*

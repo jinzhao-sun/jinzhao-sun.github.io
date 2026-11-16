@@ -20,7 +20,7 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
-- ** Quantum computational spectroscopy of complex resonances and optical residues** †<br>
+- **Quantum computational spectroscopy of complex resonances and optical residues** †<br>
   P Mahmoudi\*, J Luo\*, Chonghao Zhai, Q Shi, A Yosifov,  **J Sun**<br>
   *arxiv/2611.18388*
 

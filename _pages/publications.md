@@ -20,7 +20,9 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
-Disorder-blind Mpemba acceleration of quantum state preparation
+- ** Quantum computational spectroscopy of complex resonances and optical residues** †<br>
+  P Mahmoudi\*, J Luo\*, Chonghao Zhai, Q Shi, A Yosifov,  **J Sun**<br>
+  *arxiv/2611.18388*
 
 - **Disorder-blind Mpemba acceleration of quantum state preparation** †<br>
   M Nishanth, S Sadugol, P Mahmoudi, A Yosifov, A Iyer, R Ghosh,  **J Sun**<br>

@@ -20,9 +20,15 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+ 
+- **Complex quasiprobabilities as measurable temporal interference** †<br>
+  W Dong, A Yosifov, **J Sun**<br>
+  *arXiv:2611.22643*
+
+  
 - **Quantum computational spectroscopy of complex resonances and optical residues** †<br>
   P Mahmoudi\*, J Luo\*, Chonghao Zhai, Q Shi, A Yosifov,  **J Sun**<br>
-  *arxiv/2611.18388*
+  *arxiv:2611.18388*
 
 - **Disorder-blind Mpemba acceleration of quantum state preparation** †<br>
   M Nishanth, S Sadugol, P Mahmoudi, A Yosifov, A Iyer, R Ghosh,  **J Sun**<br>

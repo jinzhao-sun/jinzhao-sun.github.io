@@ -20,6 +20,9 @@ Find descriptions of my research works under **[Research](research.md)**.
 
 ⭑ Co-first Author
 
+- **Exponential advantage in quantum observation with one extra qubit** †<br>
+  Z Du, X Ma, V Vedral, **J Sun**<br>
+  *arxiv:2611.30876*
  
 - **Complex quasiprobabilities as measurable temporal interference** †<br>
   W Dong, A Yosifov, **J Sun**<br>
